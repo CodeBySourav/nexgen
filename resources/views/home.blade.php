@@ -1773,7 +1773,7 @@
 
 
                                                                 <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#00A6A6"></i>
+                                                                    data-color="#dbc49d"></i>
 
 
                                                             </div>
@@ -1837,7 +1837,7 @@
 
 
                                                                 <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#00A6A6"></i>
+                                                                    data-color="#dbc49d"></i>
 
 
                                                             </div>
@@ -1907,7 +1907,7 @@
 
 
                                                                 <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#00A6A6"></i>
+                                                                    data-color="#dbc49d"></i>
 
 
                                                             </div>
@@ -1971,7 +1971,7 @@
 
 
                                                                 <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#00A6A6"></i>
+                                                                    data-color="#dbc49d"></i>
 
 
                                                             </div>
@@ -2035,7 +2035,7 @@
 
 
                                                                 <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#00A6A6"></i>
+                                                                    data-color="#dbc49d"></i>
 
 
                                                             </div>
