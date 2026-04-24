@@ -852,9 +852,9 @@
                 <!-- Navbar [left] -->
 
                 <a href="https://nexgen.codings.dev/" class="navbar-brand">
-                    <img width="286" height="100" src="images/logo.svg" alt="Nexgen"
+                    <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Nexgen"
                         class="d-none d-sm-block desktop-logo"><img width="286" height="100"
-                        src="images/logo.svg" alt="Nexgen" class="d-block d-sm-none responsive-logo"> </a>
+                        src="images/Oceano-Apex-Logo.png" alt="Nexgen" class="d-block d-sm-none responsive-logo"> </a>
 
 
                 <!-- Nav holder -->
@@ -3607,9 +3607,9 @@
 
                         <div class="content-block brand">
                             <a href="" class="navbar-brand">
-                                <img width="286" height="100" src="images/logo.svg" alt="Nexgen"
+                                <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Nexgen"
                                     class="d-none d-sm-block desktop-logo"><img width="286" height="100"
-                                    src="images/logo.svg" alt="Nexgen"
+                                    src="images/Oceano-Apex-Logo.png" alt="Nexgen"
                                     class="d-block d-sm-none responsive-logo"> </a>
                         </div>
 
