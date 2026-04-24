@@ -1997,7 +1997,7 @@ header {
   z-index: 5;
   height: 50px;
   padding: 0 10px;
-  background-color: var(--nxg-tertiary-color);
+  background-color: #000000;
 }
 
 .has-navbar-top .navbar.sub:not(.navbar-sticky) {
@@ -2150,7 +2150,7 @@ header .navbar-expand .navbar-brand .featured .first {
   padding-left: 15px;
   font-size: 0.9rem;
   line-height: 1.5;
-  color: var(--light-text-color);
+  color: #ffffff;
   opacity: 0.7;
 }
 

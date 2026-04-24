@@ -1316,7 +1316,7 @@
         <section
             class="elementor-section elementor-top-section elementor-element elementor-element-2e9cd65 dotted-divider  elementor-section-boxed elementor-section-height-default elementor-section-height-default"
             data-id="2e9cd65" data-element_type="section" data-settings="{" background_background":"classic"}"=""
-            data-rocket-lazy-bg-cb1718b5-d21a-48a3-97f4-5a222eeb80ea="excluded">
+            data-rocket-lazy-bg-cb1718b5-d21a-48a3-97f4-5a222eeb80ea="excluded" style="background-color: #000;">
             <div class="elementor-container elementor-column-gap-no">
                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b58d951"
                     data-id="b58d951" data-element_type="column">
@@ -1346,7 +1346,7 @@
                                             <div class="elementor-widget-container">
 
                                                 <div class="text-center">
-                                                    <h2 class="heading">
+                                                    <h2 class="heading text-white">
                                                         Advisory Performance </h2>
                                                 </div>
 
@@ -2075,14 +2075,14 @@
 
 
 <!--Start About Style1 Area-->
-        <section class="about-style1-area">
+        <section class="about-style1-area bg-black text-white" style="background-color: #000;">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="border-box"></div>
                         <h3>our introductions</h3>
                     </div>
-                    <h2>We’re Providing the<br> Best Solution by our Expert</h2>
+                    <h2 class="text-white">We’re Providing the<br> Best Solution by our Expert</h2>
                 </div>
                 <div class="row text-right-rtl">
 
@@ -2102,65 +2102,33 @@
 
                                 <div class="top-text">
                                     <h3>Proin est lacus, sagittis lobortis iaculis eget.</h3>
-                                    <p>Laculis nec purus. Cras faucibus fringilla orci in sollicitudin. Donec eget
+                                    <p style="color:#818891;">Laculis nec purus. Cras faucibus fringilla orci in sollicitudin. Donec eget
                                         tincidunt arcu.</p>
                                 </div>
 
                                 <ul>
-                                    <li>
+                                    <li  class="text-white">
                                         <span class="icon-check"></span>
                                         Nsectetur cing elit.
                                     </li>
-                                    <li>
+                                    <li  class="text-white">
                                         <span class="icon-check"></span>
                                         Suspe ndisse suscipit sagittis leo.
                                     </li>
-                                    <li>
+                                    <li  class="text-white">
                                         <span class="icon-check"></span>
                                         Entum estibulum dignissim posuere.
                                     </li>
-                                    <li>
+                                    <li  class="text-white">
                                         <span class="icon-check"></span>
                                         Donec tristique ante vel sem dictum rhoncus.
                                     </li>
                                 </ul>
 
-                                <div class="row">
-                                    <div class="col-xl-6">
-                                        <div class="progress-block">
-                                            <div class="inner-box">
-                                                <div class="graph-outer">
-                                                    <input type="text" class="dial" data-fgcolor="#20bad1" data-bgcolor="#eff7f8" data-width="100" data-height="100" data-linecap="normal" value="90">
-                                                    <div class="inner-text count-box">
-                                                        <span class="count-text" data-stop="90" data-speed="2000"></span>%
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="outer-text">
-                                                <h3>Client<br> Satisfied</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-6">
-                                        <div class="progress-block">
-                                            <div class="inner-box">
-                                                <div class="graph-outer">
-                                                    <input type="text" class="dial" data-fgcolor="#20bad1" data-bgcolor="#eff7f8" data-width="100" data-height="100" data-linecap="normal" value="50">
-                                                    <div class="inner-text count-box">
-                                                        <span class="count-text" data-stop="50" data-speed="2000"></span>%
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="outer-text">
-                                                <h3>Finance<br> Consulting</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
 
                                 <div class="signature-box">
-                                    <h2>Kevin Martin <span>- CO Founder</span></h2>
+                                    <h2 class="text-white">Kevin Martin <span>- CO Founder</span></h2>
                                 </div>
 
                             </div>
@@ -2173,14 +2141,14 @@
         <!--End About Style1 Area-->
 
 		<!--Start Company Benefits Area-->
-        <section class="company-benefits-area">
+        <section class="company-benefits-area" style="background-color: #000;">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="border-box"></div>
                         <h3>company benefits</h3>
                     </div>
-                    <h2>Building Experience & Give<br> High Success Rates</h2>
+                    <h2 class="text-white">Building Experience & Give<br> High Success Rates</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-3 col-lg-6 col-md-6">
@@ -2231,15 +2199,15 @@
                                     commodo, fermentum est et, posuere elit.</p>
                             </div>
                             <ul>
-                                <li>
+                                <li class="text-white">
                                     <span class="icon-check"></span>
                                     Suspe ndisse suscipit sagittis leo.
                                 </li>
-                                <li>
+                                <li class="text-white">
                                     <span class="icon-check"></span>
                                     Entum estibulum dignissim posuere.
                                 </li>
-                                <li>
+                                <li class="text-white">
                                     <span class="icon-check"></span>
                                     Lorem Ipsum gene on the tend to repeat.
                                 </li>
@@ -2274,378 +2242,7 @@
         </section>
         <!--End Company Benefits Area-->
 
-        <section data-wpr-lazyrender="1"
-            class="elementor-section elementor-top-section elementor-element elementor-element-b0fe6ef elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="b0fe6ef" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-no">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d1ba3d2"
-                    data-id="d1ba3d2" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-3aa8ecb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                            data-id="3aa8ecb" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-no">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b4c6b6b"
-                                    data-id="b4c6b6b" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-9b507fb elementor-widget elementor-widget-nxg-pre-title"
-                                            data-id="9b507fb" data-element_type="widget"
-                                            data-widget_type="nxg-pre-title.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-center">
-                                                    <h6 class="pre-title">
-                                                        WE LIKE WHAT WE DO </h6>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-ae96778 elementor-widget elementor-widget-nxg-dual-heading"
-                                            data-id="ae96778" data-element_type="widget"
-                                            data-widget_type="nxg-dual-heading.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-center">
-                                                    <h2 class="heading">
-                                                        Team of Experts </h2>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-a649e24 elementor-section-full_width image-divider elementor-section-height-default elementor-section-height-default"
-                            data-id="a649e24" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-wider">
-                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fc55e47"
-                                    data-id="fc55e47" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-9a47aec elementor-widget elementor-widget-nxg-person"
-                                            data-id="9a47aec" data-element_type="widget"
-                                            data-widget_type="nxg-person.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="team">
-                                                    <div class="justify-content-center text-left items">
-                                                        <div class="item">
-
-
-
-
-
-                                                            <div
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <div class="position-left">
-                                                                    <div class="image">
-                                                                        <img width="512" height="600"
-                                                                            decoding="async" src="images/team-1.jpg"
-                                                                            class="person-image" alt="Image">
-                                                                    </div>
-                                                                </div>
-                                                                <div class="position-right text-left">
-
-                                                                    <h4 class="person-name">
-                                                                        David Cooper </h4>
-
-                                                                    <p class="person-title">
-                                                                        <u>CTO & CO-FOUNDER</u>
-                                                                    </p>
-
-                                                                    <p class="person-biography">
-                                                                        Lorem ipsum dolor sit amet consectetur
-                                                                        adipiscing elit. </p>
-
-                                                                    <ul class="person-social-icons">
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-facebook-f"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-twitter"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-linkedin-in"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-01a0b0b"
-                                    data-id="01a0b0b" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-e3e61d8 elementor-widget elementor-widget-nxg-person"
-                                            data-id="e3e61d8" data-element_type="widget"
-                                            data-widget_type="nxg-person.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="team">
-                                                    <div class="justify-content-center text-left items">
-                                                        <div class="item">
-
-
-
-
-
-                                                            <div
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <div class="position-left">
-                                                                    <div class="image">
-                                                                        <img width="512" height="600"
-                                                                            decoding="async" src="images/team-3.jpg"
-                                                                            class="person-image" alt="Image">
-                                                                    </div>
-                                                                </div>
-                                                                <div class="position-right text-left">
-
-                                                                    <h4 class="person-name">
-                                                                        Oliver Jones </h4>
-
-                                                                    <p class="person-title">
-                                                                        <u>CHIEF PROCUREMENT</u>
-                                                                    </p>
-
-                                                                    <p class="person-biography">
-                                                                        <span style="font-size: 16px;">Lorem ipsum
-                                                                            dolor sit amet consectetur adipiscing
-                                                                            elit.</span><span
-                                                                            style="font-size: 16px;"></span>
-                                                                    </p>
-
-                                                                    <ul class="person-social-icons">
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-facebook-f"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-twitter"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-linkedin-in"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-237ea63 elementor-section-full_width image-divider to-bottom elementor-section-height-default elementor-section-height-default"
-                            data-id="237ea63" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-wider">
-                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-878504f"
-                                    data-id="878504f" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-bb4e4c3 elementor-widget elementor-widget-nxg-person"
-                                            data-id="bb4e4c3" data-element_type="widget"
-                                            data-widget_type="nxg-person.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="team">
-                                                    <div class="justify-content-center text-left items">
-                                                        <div class="item">
-
-
-
-
-
-                                                            <div
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <div class="position-left">
-                                                                    <div class="image">
-                                                                        <img width="512" height="600"
-                                                                            decoding="async" src="images/team-2.jpg"
-                                                                            class="person-image" alt="Image">
-                                                                    </div>
-                                                                </div>
-                                                                <div class="position-right text-left">
-
-                                                                    <h4 class="person-name">
-                                                                        Emma Lopez </h4>
-
-                                                                    <p class="person-title">
-                                                                        <u>CHIEF MARKETING</u>
-                                                                    </p>
-
-                                                                    <p class="person-biography">
-                                                                        <span style="font-size: 16px;">Lorem ipsum
-                                                                            dolor sit amet consectetur adipiscing
-                                                                            elit.</span><span
-                                                                            style="font-size: 16px;"></span>
-                                                                    </p>
-
-                                                                    <ul class="person-social-icons">
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-facebook-f"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-twitter"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-linkedin-in"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-29a81a2"
-                                    data-id="29a81a2" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-1febf71 elementor-widget elementor-widget-nxg-person"
-                                            data-id="1febf71" data-element_type="widget"
-                                            data-widget_type="nxg-person.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="team">
-                                                    <div class="justify-content-center text-left items">
-                                                        <div class="item">
-
-
-
-
-
-                                                            <div
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <div class="position-left">
-                                                                    <div class="image">
-                                                                        <img width="512" height="600"
-                                                                            decoding="async" src="images/team-4.jpg"
-                                                                            class="person-image" alt="Image">
-                                                                    </div>
-                                                                </div>
-                                                                <div class="position-right text-left">
-
-                                                                    <h4 class="person-name">
-                                                                        T. Johnson </h4>
-
-                                                                    <p class="person-title">
-                                                                        <u>CEO & PRESIDENT</u>
-                                                                    </p>
-
-                                                                    <p class="person-biography">
-                                                                        <span style="font-size: 16px;">Lorem ipsum
-                                                                            dolor sit amet consectetur adipiscing
-                                                                            elit.</span><span
-                                                                            style="font-size: 16px;"></span>
-                                                                    </p>
-
-                                                                    <ul class="person-social-icons">
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-facebook-f"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-twitter"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a href="#">
-                                                                                <div class="icon-wrapper">
-                                                                                    <i
-                                                                                        class="social-icon fab fa-linkedin-in"></i>
-                                                                                </div>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+        
 
 
 
@@ -2653,7 +2250,7 @@
 
         <section
             class="elementor-section elementor-top-section elementor-element elementor-element-233e55c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="233e55c" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+            data-id="233e55c" data-element_type="section" data-settings="{" background_background":"classic"}"="" style="background-color: #000;">
             <div class="elementor-container elementor-column-gap-no">
                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e61906"
                     data-id="7e61906" data-element_type="column">
@@ -2683,7 +2280,7 @@
                                             <div class="elementor-widget-container">
 
                                                 <div class="text-left">
-                                                    <h2 class="heading">
+                                                    <h2 class="text-white">
                                                         Latest News </h2>
                                                 </div>
 
@@ -3131,151 +2728,12 @@
                 </div>
             </div>
         </section>
-        <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-2243292 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="2243292" data-element_type="section" data-settings="{"
-            background_background":"gradient"}"="">
-            <div class="elementor-container elementor-column-gap-no">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6814799"
-                    data-id="6814799" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-372516f elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                            data-id="372516f" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-no">
-                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-323b88d"
-                                    data-id="323b88d" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-174cae2 elementor-widget elementor-widget-nxg-pre-title"
-                                            data-id="174cae2" data-element_type="widget"
-                                            data-widget_type="nxg-pre-title.default">
-                                            <div class="elementor-widget-container">
+        
 
-                                                <div class="text-left">
-                                                    <h6 class="pre-title">
-                                                        NEWSLETTER </h6>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-ab328b1 elementor-widget elementor-widget-nxg-dual-heading"
-                                            data-id="ab328b1" data-element_type="widget"
-                                            data-widget_type="nxg-dual-heading.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-left">
-                                                    <h2 class="heading">
-                                                        Know First </h2>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-cd6f2ce elementor-widget elementor-widget-nxg-paragraph"
-                                            data-id="cd6f2ce" data-element_type="widget"
-                                            data-widget_type="nxg-paragraph.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-left">
-                                                    <p class="paragraph">
-                                                        Follow closely and receive news of the current market.<br>
-                                                        By submitting the form you agree to the <a
-                                                            href="#">terms of use</a>. </p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f729612"
-                                    data-id="f729612" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-cb8a47f elementor-widget elementor-widget-nxg-form"
-                                            data-id="cb8a47f" data-element_type="widget"
-                                            data-widget_type="nxg-form.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="nxg-contact-form-7">
-
-                                                    <div class="wpcf7 no-js" id="wpcf7-f6923-p6480-o1"
-                                                        lang="en-US" dir="ltr" data-wpcf7-id="6923">
-                                                        <div class="screen-reader-response">
-                                                            <p role="status" aria-live="polite"
-                                                                aria-atomic="true"></p>
-                                                            <ul></ul>
-                                                        </div>
-                                                        <form action="/home-1/#wpcf7-f6923-p6480-o1" method="post"
-                                                            class="wpcf7-form init" aria-label="Contact form"
-                                                            novalidate="novalidate" data-status="init">
-                                                            <div style="display: none;">
-                                                                <input type="hidden" name="_wpcf7"
-                                                                    value="6923">
-                                                                <input type="hidden" name="_wpcf7_version"
-                                                                    value="6.0.1">
-                                                                <input type="hidden" name="_wpcf7_locale"
-                                                                    value="en_US">
-                                                                <input type="hidden" name="_wpcf7_unit_tag"
-                                                                    value="wpcf7-f6923-p6480-o1">
-                                                                <input type="hidden" name="_wpcf7_container_post"
-                                                                    value="6480">
-                                                                <input type="hidden" name="_wpcf7_posted_data_hash"
-                                                                    value="">
-                                                            </div>
-                                                            <div class="row">
-                                                                <div class="col-12 input-group">
-                                                                    <p><label> Name <span
-                                                                                class="wpcf7-form-control-wrap"
-                                                                                data-name="your-name"><input
-                                                                                    size="40" maxlength="400"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    value="" type="text"
-                                                                                    name="your-name"></span> </label>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="row">
-                                                                <div class="col-12 input-group">
-                                                                    <p><label> Email <span
-                                                                                class="wpcf7-form-control-wrap"
-                                                                                data-name="your-email"><input
-                                                                                    size="40" maxlength="400"
-                                                                                    class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    value="" type="email"
-                                                                                    name="your-email"></span> </label>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="row">
-                                                                <div class="col-12 input-group">
-                                                                    <p><input
-                                                                            class="wpcf7-form-control wpcf7-submit has-spinner"
-                                                                            type="submit" value="SUBSCRIBE">
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpcf7-response-output" aria-hidden="true">
-                                                            </div>
-                                                        </form>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section
             class="elementor-section elementor-top-section elementor-element elementor-element-ce2dee3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
             data-id="ce2dee3" data-element_type="section" id="contact-us" data-settings="{"
-            background_background":"classic"}"="" data-rocket-lazy-bg-1069f79a-5ccc-414e-9c22-d7d924ea0473="excluded">
+            background_background":"classic"}"="" data-rocket-lazy-bg-1069f79a-5ccc-414e-9c22-d7d924ea0473="excluded" style="background-color: #000;">
             <div class="elementor-container elementor-column-gap-no">
                 <div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-9d576f0"
                     data-id="9d576f0" data-element_type="column">
@@ -3305,7 +2763,7 @@
                                             <div class="elementor-widget-container">
 
                                                 <div class="text-left">
-                                                    <h2 class="heading">
+                                                    <h2 class="text-white">
                                                         Get in Touch </h2>
                                                 </div>
 
@@ -3737,7 +3195,7 @@
 
 
         <!-- Bottom Bar -->
-        <section class="bottom-bar">
+        <section class="bottom-bar" style="background-color: #000;">
             <div class="container">
                 <div class="row">
 
