@@ -916,8 +916,8 @@
                 <ul class="navbar-nav action d-md-block d-sm-block d-none">
                     <li class="nav-item">
 
-                        <a href="https://themeforest.net/item/nexgen-multi-purpose-all-in-one-wordpress-theme/31222361"
-                            target="_blank" class="btn primary-button">BUY NEXGEN</a>
+                        <a href="#"
+                            target="_blank" class="btn primary-button">CONTACT</a>
                     </li>
                 </ul>
 
