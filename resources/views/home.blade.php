@@ -892,24 +892,11 @@
 
 
 
-                <ul class="navbar-nav icons d-md-block d-sm-block d-none">
-                    <li class="nav-item">
-                        <a href="#" class="nav-link" data-toggle="modal" data-target="#search">
-                            <i class="icon-magnifier m-0"></i>
-                        </a>
-                    </li>
-                </ul>
+                
 
 
 
-
-                <ul class="navbar-nav icons  d-md-block d-sm-block d-none">
-                    <li class="nav-item">
-                        <a href="#" class="nav-link" data-toggle="modal" data-target="#cart"><i
-                                class="icon-handbag"></i><span class="cart-counter">0</span></a>
-                    </li>
-                </ul>
-
+ 
 
 
 
