@@ -864,247 +864,21 @@
 
 
                 <ul id="menu-nexgen-menu-1" class="navbar-nav items right">
-                    <li id="menu-item-10534"
-                        class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-10534 nav-item dropdown">
-                        <a href="#" class="nav-link">Demos<i class="icon-arrow-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li id="menu-item-10672"
-                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6480 current_page_item menu-item-10672 nav-item active">
-                                <a href="https://nexgen.codings.dev/home-1/" class="nav-link sub-link active">Home
-                                    1</a> </li>
-                            <li id="menu-item-10670"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10670 nav-item">
-                                <a href="https://nexgen.codings.dev/home-2/" class="nav-link sub-link">Home 2</a>
-                            </li>
-                            <li id="menu-item-10669"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10669 nav-item">
-                                <a href="https://nexgen.codings.dev/home-3/" class="nav-link sub-link">Home 3</a>
-                            </li>
-                            <li id="menu-item-10668"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10668 nav-item">
-                                <a href="https://nexgen.codings.dev/home-4/" class="nav-link sub-link">Home 4</a>
-                            </li>
-                            <li id="menu-item-10667"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10667 nav-item">
-                                <a href="https://nexgen.codings.dev/home-5/" class="nav-link sub-link">Home 5</a>
-                            </li>
-                            <li id="menu-item-10666"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10666 nav-item">
-                                <a href="https://nexgen.codings.dev/home-6/" class="nav-link sub-link">Home 6</a>
-                            </li>
-                            <li id="menu-item-10665"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10665 nav-item">
-                                <a href="https://nexgen.codings.dev/home-7/" class="nav-link sub-link">Home 7</a>
-                            </li>
-                            <li id="menu-item-10664"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10664 nav-item">
-                                <a href="https://nexgen.codings.dev/home-8/" class="nav-link sub-link">Home 8</a>
-                            </li>
-                            <li id="menu-item-10663"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10663 nav-item">
-                                <a href="https://nexgen.codings.dev/home-9/" class="nav-link sub-link">Home 9</a>
-                            </li>
-                            <li id="menu-item-10671"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10671 nav-item">
-                                <a href="https://nexgen.codings.dev/home-10/" class="nav-link sub-link">Home 10</a>
-                            </li>
-                            <li id="menu-item-14717"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14717 nav-item">
-                                <a href="https://nexgen.codings.dev/home-11/" class="nav-link sub-link">Home 11</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-10537"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10537 nav-item dropdown">
-                        <a href="#" class="nav-link">Pages<i class="icon-arrow-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li id="menu-item-10673"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10673 nav-item">
-                                <a href="https://nexgen.codings.dev/page-about-1/" class="nav-link sub-link">About
-                                    Us</a> </li>
-                            <li id="menu-item-10679"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10679 nav-item">
-                                <a href="https://nexgen.codings.dev/page-services-1/"
-                                    class="nav-link sub-link">Services</a> </li>
-                            <li id="menu-item-10680"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10680 nav-item">
-                                <a href="https://nexgen.codings.dev/page-single-service-1/"
-                                    class="nav-link sub-link">Single Service</a> </li>
-                            <li id="menu-item-10678"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10678 nav-item">
-                                <a href="https://nexgen.codings.dev/page-pricing-table-1/"
-                                    class="nav-link sub-link">Pricing Table</a> </li>
-                            <li id="menu-item-10682"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10682 nav-item">
-                                <a href="https://nexgen.codings.dev/page-testimonials-1/"
-                                    class="nav-link sub-link">Testimonials</a> </li>
-                            <li id="menu-item-10681"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10681 nav-item">
-                                <a href="https://nexgen.codings.dev/page-team-1/" class="nav-link sub-link">Team</a>
-                            </li>
-                            <li id="menu-item-10677"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10677 nav-item">
-                                <a href="https://nexgen.codings.dev/page-partners-1/"
-                                    class="nav-link sub-link">Partners</a> </li>
-                            <li id="menu-item-10676"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10676 nav-item">
-                                <a href="https://nexgen.codings.dev/page-contact-1/" class="nav-link sub-link">Contact
-                                    Us</a></li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-10535"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10535 nav-item dropdown">
-                        <a href="#" class="nav-link">Portfolio<i class="icon-arrow-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li id="menu-item-10559"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10559 nav-item dropdown">
-                                <a href="#" class="nav-link sub-link">Full Width<i
-                                        class="icon-arrow-right"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li id="menu-item-10567"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10567 nav-item">
-                                        <a href="https://nexgen.codings.dev/portfolio-2-columns/"
-                                            class="nav-link sub-link">2 Columns</a> </li>
-                                    <li id="menu-item-10566"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10566 nav-item">
-                                        <a href="https://nexgen.codings.dev/portfolio-3-columns/"
-                                            class="nav-link sub-link">3 Columns</a> </li>
-                                    <li id="menu-item-10565"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10565 nav-item">
-                                        <a href="https://nexgen.codings.dev/portfolio-4-columns/"
-                                            class="nav-link sub-link">4 Columns</a> </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-10560"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10560 nav-item dropdown">
-                                <a href="#" class="nav-link sub-link">With Sidebar<i
-                                        class="icon-arrow-right"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li id="menu-item-10570"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10570 nav-item">
-                                        <a href="https://nexgen.codings.dev/portfolio-right-sidebar-1-columns/"
-                                            class="nav-link sub-link">1 Column</a> </li>
-                                    <li id="menu-item-10572"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10572 nav-item">
-                                        <a href="https://nexgen.codings.dev/portfolio-right-sidebar-2-columns/"
-                                            class="nav-link sub-link">2 Columns</a> </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-10648"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10648 nav-item dropdown">
-                                <a href="#" class="nav-link sub-link">Single Portfolio<i
-                                        class="icon-arrow-right"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li id="menu-item-10661"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10661 nav-item dropdown">
-                                        <a href="#" class="nav-link sub-link">Full Width<i
-                                                class="icon-arrow-right"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li id="menu-item-10660"
-                                                class="menu-item menu-item-type-post_type menu-item-object-nexgen-portfolio menu-item-10660 nav-item">
-                                                <a href="https://nexgen.codings.dev/portfolio/portfolio-item-with-intro-without-sidebar/"
-                                                    class="nav-link sub-link">With Intro</a> </li>
-                                            <li id="menu-item-10659"
-                                                class="menu-item menu-item-type-post_type menu-item-object-nexgen-portfolio menu-item-10659 nav-item">
-                                                <a href="https://nexgen.codings.dev/portfolio/portfolio-item-without-intro-without-sidebar/"
-                                                    class="nav-link sub-link">Without Intro</a> </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-10662"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10662 nav-item dropdown">
-                                        <a href="#" class="nav-link sub-link">With Sidebar<i
-                                                class="icon-arrow-right"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li id="menu-item-10658"
-                                                class="menu-item menu-item-type-post_type menu-item-object-nexgen-portfolio menu-item-10658 nav-item">
-                                                <a href="https://nexgen.codings.dev/portfolio/international-business-trip-in-shanghai/"
-                                                    class="nav-link sub-link">With Intro</a> </li>
-                                            <li id="menu-item-10657"
-                                                class="menu-item menu-item-type-post_type menu-item-object-nexgen-portfolio menu-item-10657 nav-item">
-                                                <a href="https://nexgen.codings.dev/portfolio/portfolio-item-without-intro-with-sidebar/"
-                                                    class="nav-link sub-link">Without Intro</a> </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-10536"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10536 nav-item dropdown">
-                        <a href="#" class="nav-link">Blog<i class="icon-arrow-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li id="menu-item-10544"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10544 nav-item dropdown">
-                                <a href="#" class="nav-link sub-link">Full Width<i
-                                        class="icon-arrow-right"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li id="menu-item-10558"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10558 nav-item">
-                                        <a href="https://nexgen.codings.dev/blog-2-collumns/"
-                                            class="nav-link sub-link">2 Collumns</a> </li>
-                                    <li id="menu-item-11417"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11417 nav-item">
-                                        <a href="https://nexgen.codings.dev/blog-3-collumns/"
-                                            class="nav-link sub-link">3 Collumns</a> </li>
-                                    <li id="menu-item-10556"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10556 nav-item">
-                                        <a href="https://nexgen.codings.dev/blog-4-columns/"
-                                            class="nav-link sub-link">4 Columns</a> </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-10552"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10552 nav-item dropdown">
-                                <a href="#" class="nav-link sub-link">With Sidebar<i
-                                        class="icon-arrow-right"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li id="menu-item-10554"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10554 nav-item">
-                                        <a href="https://nexgen.codings.dev/blog-right-sidebar-2-collumns/"
-                                            class="nav-link sub-link">2 Collumns</a> </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-10649"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10649 nav-item dropdown">
-                                <a href="#" class="nav-link sub-link">Single Post<i
-                                        class="icon-arrow-right"></i></a>
-                                <ul class="dropdown-menu">
-                                    <li id="menu-item-10655"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10655 nav-item dropdown">
-                                        <a href="#" class="nav-link sub-link">Full Width<i
-                                                class="icon-arrow-right"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li id="menu-item-10652"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-10652 nav-item">
-                                                <a href="https://nexgen.codings.dev/increasing-creativity-is-possible-for-everyone/"
-                                                    class="nav-link sub-link">With Intro</a> </li>
-                                            <li id="menu-item-10650"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-10650 nav-item">
-                                                <a href="https://nexgen.codings.dev/because-market-research-is-part-of-the-business-plan/"
-                                                    class="nav-link sub-link">Without Intro</a> </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-10656"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10656 nav-item dropdown">
-                                        <a href="#" class="nav-link sub-link">With Sidebar<i
-                                                class="icon-arrow-right"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li id="menu-item-10654"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-10654 nav-item">
-                                                <a href="https://nexgen.codings.dev/working-from-home-is-now-a-trend/"
-                                                    class="nav-link sub-link">With Intro</a> </li>
-                                            <li id="menu-item-10653"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-10653 nav-item">
-                                                <a href="https://nexgen.codings.dev/tips-for-having-a-good-relationship-at-work/"
-                                                    class="nav-link sub-link">Without Intro</a> </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
+                    
+                     
                     <li id="menu-item-10573"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
-                            href="https://nexgen.codings.dev/shop/" class="nav-link">Shop</a></li>
+                            href="#" class="nav-link">HOME</a></li>
+
+                    <li id="menu-item-10573"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
+                            href="#" class="nav-link">ABOUT</a></li>
+                    <li id="menu-item-10573"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
+                            href="#" class="nav-link">SERVICES</a></li>
+                    <li id="menu-item-10573"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
+                            href="#" class="nav-link">BLOG</a></li> 
                 </ul>
 
                 <ul class="navbar-nav toggle">
@@ -2960,23 +2734,23 @@
 
                                                 <ul class="navbar-nav">
                                                     <li class="nav-item">
-                                                        <a href="tel:+1 (305) 1234-5678" target="" _blank""=""
+                                                        <a href="tel:+971 585015666" target="" _blank""=""
                                                             rel="" nofollow""="" class="nav-link text-left">
                                                             <div class="icon-wrapper">
                                                                 <i class="list-icon fas fa-phone-alt"></i>
                                                             </div>
                                                             <span class="list-text">
-                                                                +1 (305) 1234-5678 </span>
+                                                                +971 585015666 </span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a href="mailto:mail@example.com" target="" _blank""=""
+                                                        <a href="mailto:oceanoapexdubai@icloud.com" target="" _blank""=""
                                                             rel="" nofollow""="" class="nav-link text-left">
                                                             <div class="icon-wrapper">
                                                                 <i class="list-icon fas fa-envelope"></i>
                                                             </div>
                                                             <span class="list-text">
-                                                                mail@example.com </span>
+                                                                oceanoapexdubai@icloud.com </span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
@@ -2986,19 +2760,10 @@
                                                                 <i class="list-icon fas fa-map-marker-alt"></i>
                                                             </div>
                                                             <span class="list-text">
-                                                                Main Avenue, 123 </span>
+                                                                office No. 202, Second Floor, Ontario Tower, Business Bay, Dubai, UAE </span>
                                                         </a>
                                                     </li>
-                                                    <li class="nav-item">
-                                                        <a href="#" target="" _blank""=""
-                                                            rel="" nofollow""="" class="nav-link text-left">
-                                                            <div class="icon-wrapper">
-                                                                <i class="list-icon fas fa-map-marker-alt"></i>
-                                                            </div>
-                                                            <span class="list-text">
-                                                                Main Avenue, 987 </span>
-                                                        </a>
-                                                    </li>
+                                                     
                                                 </ul>
 
                                             </div>
@@ -3073,43 +2838,22 @@
 
 
                         <div class="content-block paragraph">
-                            <p>Built to the smallest detail with<br>
-                                a focus on feature availability.</p>
+                            <p>Oceano Apex is a trusted<br>
+                                financia Advisory firm and<br>
+                                growing wealth management <br>
+                                company providing professional<br>
+                                investment management<br>
+                                services</p>
                         </div>
 
 
-                        <ul class="navbar-nav icons content-block">
-                            <li class="nav-item">
-
-                                <a href="tel:+1 (305) 1234-5678" target="_self" class="nav-link"><i
-                                        class="fas fa-phone-alt text-after"></i>+1 (305) 1234-5678</a>
-                            </li>
-                        </ul>
-
-
-                        <ul class="navbar-nav icons content-block">
-                            <li class="nav-item">
-
-                                <a href="mailto:hello@example.com" target="_self" class="nav-link"><i
-                                        class="fas fa-envelope text-after"></i>hello@example.com</a>
-                            </li>
-                        </ul>
-
-
-                        <ul class="navbar-nav icons content-block">
-                            <li class="nav-item">
-
-                                <a href="#" target="_self" class="nav-link"><i
-                                        class="fas fa-map-marker-alt text-after"></i>Main Avenue, 987</a>
-                            </li>
-                        </ul>
-
+                         
 
                         <ul class="navbar-nav action content-block">
                             <li class="nav-item">
 
-                                <a href="https://themeforest.net/item/nexgen-multi-purpose-all-in-one-wordpress-theme/31222361"
-                                    target="_blank" class="btn secondary-button">BUY NEXGEN</a>
+                                <a href="#"
+                                    target="_blank" class="btn secondary-button">GET IN TOUCH</a>
                             </li>
                         </ul>
 
@@ -3118,8 +2862,11 @@
 
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div class="card">
-                            <h4>Company</h4>
+                            <h4>About</h4>
                             <ul id="menu-nexgen-footer-1" class="footer-link-list">
+                            <li id="menu-item-10684"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
+                                        href="#">The Company</a></li>
                                 <li id="menu-item-10684"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
                                         href="#">Institutional</a></li>
@@ -3159,6 +2906,9 @@
                                 <li id="menu-item-14055"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14055"><a
                                         href="#">Legal Consulting</a></li>
+                                <li id="menu-item-14055"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14055"><a
+                                        href="#">Regulatory Risk</a></li>
                             </ul>
                         </div>
                     </div>
@@ -3166,23 +2916,26 @@
 
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div class="card">
-                            <h4>Consultants</h4>
+                            <h4>Support</h4>
                             <ul id="menu-nexgen-footer-3" class="footer-link-list">
                                 <li id="menu-item-14056"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14056"><a
-                                        href="#">David Cooper</a></li>
+                                        href="#">Responsibility</a></li>
                                 <li id="menu-item-14057"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14057"><a
-                                        href="#">Oliver Jones</a></li>
+                                        href="#">Terms of Use</a></li>
                                 <li id="menu-item-14058"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14058"><a
-                                        href="#">Emma Lopez</a></li>
+                                        href="#">About Cookies</a></li>
                                 <li id="menu-item-14059"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14059"><a
-                                        href="#">T. Johnson</a></li>
+                                        href="#">Privacy Policy</a></li>
                                 <li id="menu-item-14060"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14060"><a
-                                        href="#">Jacob Hill Jr</a></li>
+                                        href="#">Accessibility</a></li>
+                                <li id="menu-item-14060"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14060"><a
+                                        href="#">Information</a></li>
                             </ul>
                         </div>
                     </div>
