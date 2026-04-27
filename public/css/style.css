@@ -4431,7 +4431,7 @@ form[data-steps="3"] .progressbar li {
 
 footer.footer {
   position: relative;
-  background-color: var(--dark-bg-color);
+  background-color: #17171c;
 }
 
 footer .footer.main {
