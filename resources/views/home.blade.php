@@ -934,49 +934,7 @@
 
                                         <div class="swiper-wrapper">
 
-                                            <div class="swiper-slide slide-center">
-
-                                                <img fetchpriority="high" width="1920" height="1064"
-                                                    decoding="async" src="images/bg-1.jpg" alt="Image"
-                                                    class="full-image">
-
-                                                <div class="slide-content row">
-                                                    <div
-                                                        class="col-12 d-flex justify-content-start justify-content-lg-start text-left text-md-left inner">
-                                                        <div class="slide-width" style="width: 50%">
-
-
-                                                            <h1 class="heading title" data-aos="zoom-in"
-                                                                data-aos-delay="400">
-                                                                Business Consulting </h1>
-
-                                                            <p class="paragraph description" data-aos="zoom-in"
-                                                                data-aos-delay="800">
-                                                                We drive product and service innovation, improve
-                                                                financial performance, accelerate market speed. </p>
-
-                                                            <div class="buttons buttons" data-aos="fade-up"
-                                                                data-aos-delay="1200">
-                                                                <div class="d-sm-inline-flex">
-
-
-                                                                    <a href="#contact-1" target="_blank"
-                                                                        rel="nofollow"
-                                                                        class="mt-4 btn primary-button">
-                                                                        GET IN TOUCH </a>
-
-
-                                                                    <a href="#read-more-1" target="_blank"
-                                                                        rel="nofollow"
-                                                                        class="ml-sm-4 mt-4 btn secondary-button">
-                                                                        READ MORE </a>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                             
                                             <div class="swiper-slide slide-center">
 
                                                 <img width="1920" height="1064" decoding="async"
@@ -1020,48 +978,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="swiper-slide slide-center">
-
-                                                <img width="1920" height="1064" decoding="async"
-                                                    src="images/bg-3.jpg" alt="Image" class="full-image">
-
-                                                <div class="slide-content row">
-                                                    <div
-                                                        class="col-12 d-flex justify-content-start justify-content-lg-end text-left text-md-right inner">
-                                                        <div class="slide-width" style="width: 40%">
-
-
-                                                            <h1 class="heading title" data-aos="zoom-in"
-                                                                data-aos-delay="400">
-                                                                Audit & Assurance </h1>
-
-                                                            <p class="paragraph description" data-aos="zoom-in"
-                                                                data-aos-delay="800">
-                                                                Our focus is to map the technologies to solve the
-                                                                business transformation, offering services. </p>
-
-                                                            <div class="buttons buttons" data-aos="fade-up"
-                                                                data-aos-delay="1200">
-                                                                <div class="d-sm-inline-flex">
-
-
-                                                                    <a href="#contact-3" target="_blank"
-                                                                        rel="nofollow"
-                                                                        class="mt-4 btn primary-button">
-                                                                        GET IN TOUCH </a>
-
-
-                                                                    <a href="#read-more-3" target="_blank"
-                                                                        rel="nofollow"
-                                                                        class="ml-sm-4 mt-4 btn secondary-button">
-                                                                        READ MORE </a>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                             
 
                                         </div>
                                         <div class="swiper-pagination"></div>
@@ -1150,220 +1067,7 @@
                 </div>
             </div>
         </section>
-        <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-1f66739 dotted-divider elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="1f66739" data-element_type="section" data-settings="{" background_background":"classic"}"="">
-            <div class="elementor-background-overlay"></div>
-            <div class="elementor-container elementor-column-gap-no">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-11b93e9"
-                    data-id="11b93e9" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-6b3bcc9 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                            data-id="6b3bcc9" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-no">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-36bdb69"
-                                    data-id="36bdb69" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-0c99961 elementor-widget elementor-widget-nxg-pre-title"
-                                            data-id="0c99961" data-element_type="widget"
-                                            data-widget_type="nxg-pre-title.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-center">
-                                                    <h6 class="pre-title">
-                                                        WHAT ARE WE DOING </h6>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-14324ad elementor-widget elementor-widget-nxg-dual-heading"
-                                            data-id="14324ad" data-element_type="widget"
-                                            data-widget_type="nxg-dual-heading.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-center">
-                                                    <h2 class="heading">
-                                                        Results in Numbers </h2>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-5c161fd elementor-widget elementor-widget-nxg-paragraph"
-                                            data-id="5c161fd" data-element_type="widget"
-                                            data-widget_type="nxg-paragraph.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="text-center">
-                                                    <p class="paragraph">
-                                                        Our goal is to exceed expectations by delivering the best job
-                                                        possible. </p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-64fcbe2 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                            data-id="64fcbe2" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-no">
-                                <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-10b3c68"
-                                    data-id="10b3c68" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-8b08181 elementor-widget elementor-widget-nxg-counter"
-                                            data-id="8b08181" data-element_type="widget"
-                                            data-widget_type="nxg-counter.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="counter funfacts">
-                                                    <div class="justify-content-center text-center items">
-                                                        <div class="item">
-
-
-                                                            <div data-percent="128" data-color="#606D75"
-                                                                data-empty-color="#cccccc" class="radial">
-                                                                <span class="number">
-                                                                    128 </span>
-                                                            </div>
-
-                                                            <div class="text-center">
-                                                                <h4 class="heading">
-                                                                    Certifications </h4>
-                                                            </div>
-
-
-
-
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8fa9530"
-                                    data-id="8fa9530" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-37b039f elementor-widget elementor-widget-nxg-counter"
-                                            data-id="37b039f" data-element_type="widget"
-                                            data-widget_type="nxg-counter.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="counter funfacts">
-                                                    <div class="justify-content-center text-center items">
-                                                        <div class="item">
-
-
-                                                            <div data-percent="230" data-color="#606D75"
-                                                                data-empty-color="#cccccc" class="radial">
-                                                                <span class="number">
-                                                                    230 </span>
-                                                            </div>
-
-                                                            <div class="text-center">
-                                                                <h4 class="heading">
-                                                                    Employees </h4>
-                                                            </div>
-
-
-
-
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-784ef11"
-                                    data-id="784ef11" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-b3c6b5e elementor-widget elementor-widget-nxg-counter"
-                                            data-id="b3c6b5e" data-element_type="widget"
-                                            data-widget_type="nxg-counter.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="counter funfacts">
-                                                    <div class="justify-content-center text-center items">
-                                                        <div class="item">
-
-
-                                                            <div data-percent="517" data-color="#606D75"
-                                                                data-empty-color="#cccccc" class="radial">
-                                                                <span class="number">
-                                                                    517 </span>
-                                                            </div>
-
-                                                            <div class="text-center">
-                                                                <h4 class="heading">
-                                                                    Customers </h4>
-                                                            </div>
-
-
-
-
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3515a94"
-                                    data-id="3515a94" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-b4f9021 elementor-widget elementor-widget-nxg-counter"
-                                            data-id="b4f9021" data-element_type="widget"
-                                            data-widget_type="nxg-counter.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="counter funfacts">
-                                                    <div class="justify-content-center text-center items">
-                                                        <div class="item">
-
-
-                                                            <div data-percent="94" data-color="#606D75"
-                                                                data-empty-color="#cccccc" class="radial">
-                                                                <span class="number">
-                                                                    94 </span>
-                                                            </div>
-
-                                                            <div class="text-center">
-                                                                <h4 class="heading">
-                                                                    Countries Served </h4>
-                                                            </div>
-
-
-
-
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <section
             class="elementor-section elementor-top-section elementor-element elementor-element-ada8e11 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
             data-id="ada8e11" data-element_type="section" data-settings="{" background_background":"gradient"}"="">
@@ -1460,7 +1164,7 @@
 
                                                                 <div class="text-left">
                                                                     <h4 class="heading">
-                                                                        Audit & Assurance </h4>
+                                                                        HEDGU FUNDS </h4>
                                                                 </div>
 
                                                                 <div class="text-left">
@@ -1564,270 +1268,10 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bafd84b"
-                                    data-id="bafd84b" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-877e6f8 elementor-widget elementor-widget-nxg-card"
-                                            data-id="877e6f8" data-element_type="widget"
-                                            data-widget_type="nxg-card.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="offers card-pulse-icon">
-                                                    <div class="items">
-                                                        <div class="item">
-                                                            <div class="card">
-
-                                                                <div class="icon-wrapper mr-auto">
-                                                                    <i class="card-icon icon-chart"></i>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <h4 class="heading">
-                                                                        Analytics and M&A </h4>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <p class="paragraph">
-                                                                        Lorem ipsum dolor sit amet consectetur
-                                                                        adipiscing elit. </p>
-                                                                </div>
-
-
-                                                                <a href="#" class="full-link" target=""
-                                                                    _blank""="" rel="" nofollow""=""></a>
-
-
-                                                                <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#dbc49d"></i>
-
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-
-                                                <script>
-                                                    jQuery(function($) {
-
-                                                        $('.card-pulse-icon').each(function() {
-
-                                                            let card = $(this);
-
-                                                            card.hover(function() {
-
-                                                                let color = card.find('.pulse-icon').data('color');
-
-                                                                $(':root').css('--pulse-color', color);
-                                                            })
-                                                        })
-                                                    })
-                                                </script>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                 
                             </div>
                         </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-d0ad13f elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                            data-id="d0ad13f" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-extended">
-                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fbd70b2"
-                                    data-id="fbd70b2" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-70a3d8b elementor-widget elementor-widget-nxg-card"
-                                            data-id="70a3d8b" data-element_type="widget"
-                                            data-widget_type="nxg-card.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="offers card-pulse-icon">
-                                                    <div class="items">
-                                                        <div class="item">
-                                                            <div class="card">
-
-                                                                <div class="icon-wrapper mr-auto">
-                                                                    <i class="card-icon icon-plane"></i>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <h4 class="heading">
-                                                                        Middle Marketing </h4>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <p class="paragraph">
-                                                                        Lorem ipsum dolor sit amet consectetur
-                                                                        adipiscing elit. </p>
-                                                                </div>
-
-
-                                                                <a href="#" class="full-link" target=""
-                                                                    _blank""="" rel="" nofollow""=""></a>
-
-
-                                                                <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#dbc49d"></i>
-
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-
-                                                <script>
-                                                    jQuery(function($) {
-
-                                                        $('.card-pulse-icon').each(function() {
-
-                                                            let card = $(this);
-
-                                                            card.hover(function() {
-
-                                                                let color = card.find('.pulse-icon').data('color');
-
-                                                                $(':root').css('--pulse-color', color);
-                                                            })
-                                                        })
-                                                    })
-                                                </script>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d87dcaa"
-                                    data-id="d87dcaa" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-8c4ba44 elementor-widget elementor-widget-nxg-card"
-                                            data-id="8c4ba44" data-element_type="widget"
-                                            data-widget_type="nxg-card.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="offers card-pulse-icon">
-                                                    <div class="items">
-                                                        <div class="item">
-                                                            <div class="card">
-
-                                                                <div class="icon-wrapper mr-auto">
-                                                                    <i class="card-icon icon-globe-alt"></i>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <h4 class="heading">
-                                                                        Legal Consulting </h4>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <p class="paragraph">
-                                                                        Lorem ipsum dolor sit amet consectetur
-                                                                        adipiscing elit. </p>
-                                                                </div>
-
-
-                                                                <a href="#" class="full-link" target=""
-                                                                    _blank""="" rel="" nofollow""=""></a>
-
-
-                                                                <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#dbc49d"></i>
-
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-
-                                                <script>
-                                                    jQuery(function($) {
-
-                                                        $('.card-pulse-icon').each(function() {
-
-                                                            let card = $(this);
-
-                                                            card.hover(function() {
-
-                                                                let color = card.find('.pulse-icon').data('color');
-
-                                                                $(':root').css('--pulse-color', color);
-                                                            })
-                                                        })
-                                                    })
-                                                </script>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d528fb0"
-                                    data-id="d528fb0" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-185f428 elementor-widget elementor-widget-nxg-card"
-                                            data-id="185f428" data-element_type="widget"
-                                            data-widget_type="nxg-card.default">
-                                            <div class="elementor-widget-container">
-
-                                                <div class="offers card-pulse-icon">
-                                                    <div class="items">
-                                                        <div class="item">
-                                                            <div class="card">
-
-                                                                <div class="icon-wrapper mr-auto">
-                                                                    <i class="card-icon icon-drawer"></i>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <h4 class="heading">
-                                                                        Regulatory Risk </h4>
-                                                                </div>
-
-                                                                <div class="text-left">
-                                                                    <p class="paragraph">
-                                                                        Lorem ipsum dolor sit amet consectetur
-                                                                        adipiscing elit. </p>
-                                                                </div>
-
-
-                                                                <a href="#" class="full-link" target=""
-                                                                    _blank""="" rel="" nofollow""=""></a>
-
-
-                                                                <i class="btn-icon pulse-icon fas fas fa-arrow-right"
-                                                                    data-color="#dbc49d"></i>
-
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-
-                                                <script>
-                                                    jQuery(function($) {
-
-                                                        $('.card-pulse-icon').each(function() {
-
-                                                            let card = $(this);
-
-                                                            card.hover(function() {
-
-                                                                let color = card.find('.pulse-icon').data('color');
-
-                                                                $(':root').css('--pulse-color', color);
-                                                            })
-                                                        })
-                                                    })
-                                                </script>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
+                         
                     </div>
                 </div>
             </div>
@@ -1902,105 +1346,7 @@
         <!--End About Style1 Area-->
 
 		<!--Start Company Benefits Area-->
-        <section class="company-benefits-area" style="background-color: #000;">
-            <div class="container">
-                <div class="sec-title text-center">
-                    <div class="sub-title">
-                        <div class="border-box"></div>
-                        <h3>company benefits</h3>
-                    </div>
-                    <h2 class="text-white">Building Experience & Give<br> High Success Rates</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <ul class="fact-counter-box">
-                            <!--Start Single Fact Counter-->
-                            <li class="single-fact-counter">
-                                <div class="inner">
-                                    <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="708">708</span>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Projects are Completed</h3>
-                                </div>
-                            </li>
-                            <!--End Single Fact Counter-->
-                            <!--Start Single Fact Counter-->
-                            <li class="single-fact-counter">
-                                <div class="inner">
-                                    <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="630">0</span>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Clients are Satisfied</h3>
-                                </div>
-                            </li>
-                            <!--End Single Fact Counter-->
-                            <!--Start Single Fact Counter-->
-                            <li class="single-fact-counter">
-                                <div class="inner">
-                                    <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="3000" data-stop="900">0</span>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Gave Finance Advices</h3>
-                                </div>
-                            </li>
-                            <!--End Single Fact Counter-->
-                        </ul>
-                    </div>
-
-                    <div class="col-xl-5 col-lg-6 col-md-6">
-                        <div class="company-benefits-content">
-                            <div class="top-text">
-                                <p>Pellentesque tortor ex, luctus sed aliquet sit amet, molestie at odio. Etiam non
-                                    commodo, fermentum est et, posuere elit.</p>
-                            </div>
-                            <ul>
-                                <li class="text-white">
-                                    <span class="icon-check"></span>
-                                    Suspe ndisse suscipit sagittis leo.
-                                </li>
-                                <li class="text-white">
-                                    <span class="icon-check"></span>
-                                    Entum estibulum dignissim posuere.
-                                </li>
-                                <li class="text-white">
-                                    <span class="icon-check"></span>
-                                    Lorem Ipsum gene on the tend to repeat.
-                                </li>
-                            </ul>
-                            <div class="bottom-content">
-                                <div class="img-box">
-                                    <img src="images/benefits-content-thumb-img.jpg" alt="">
-                                </div>
-                                <div class="inner-text">
-                                    <p>Consulting & finance<br> company funded in <span>1886</span></p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4">
-                        <div class="company-benefits-img-box">
-                            <div class="shape-1 paroller-2"></div>
-                            <div class="shape-2 paroller-2"></div>
-                            <div class="inner">
-                                <img src="images/company-benefits-img-1.jpg" alt="">
-                                <div class="logo-box">
-                                    <img src="images/thm-logo-1.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
+        
         <!--End Company Benefits Area-->
 
         
@@ -2853,22 +2199,13 @@
                             <ul id="menu-nexgen-footer-1" class="footer-link-list">
                             <li id="menu-item-10684"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
-                                        href="#">The Company</a></li>
+                                        href="#">About us</a></li>
                                 <li id="menu-item-10684"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
-                                        href="#">Institutional</a></li>
+                                        href="#">Contact </a></li>
                                 <li id="menu-item-10685"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10685"><a
-                                        href="#">Social & Events</a></li>
-                                <li id="menu-item-10686"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10686"><a
-                                        href="#">Innovation</a></li>
-                                <li id="menu-item-10687"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10687"><a
-                                        href="#">Environment</a></li>
-                                <li id="menu-item-10688"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10688"><a
-                                        href="#">Technology</a></li>
+                                        href="#">Blog </a></li> 
                             </ul>
                         </div>
                     </div>
@@ -2880,22 +2217,10 @@
                             <ul id="menu-nexgen-footer-2" class="footer-link-list">
                                 <li id="menu-item-14051"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14051"><a
-                                        href="#">Audit & Assurance</a></li>
+                                        href="#">Hedge Funds </a></li>
                                 <li id="menu-item-14052"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
-                                        href="#">Financial Advisory</a></li>
-                                <li id="menu-item-14053"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14053"><a
-                                        href="#">Analytics and M&A</a></li>
-                                <li id="menu-item-14054"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14054"><a
-                                        href="#">Middle Marketing</a></li>
-                                <li id="menu-item-14055"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14055"><a
-                                        href="#">Legal Consulting</a></li>
-                                <li id="menu-item-14055"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14055"><a
-                                        href="#">Regulatory Risk</a></li>
+                                        href="#">Financial Advisory </a></li> 
                             </ul>
                         </div>
                     </div>
@@ -2907,22 +2232,10 @@
                             <ul id="menu-nexgen-footer-3" class="footer-link-list">
                                 <li id="menu-item-14056"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14056"><a
-                                        href="#">Responsibility</a></li>
+                                        href="#">Terms of Use</a></li>
                                 <li id="menu-item-14057"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14057"><a
-                                        href="#">Terms of Use</a></li>
-                                <li id="menu-item-14058"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14058"><a
-                                        href="#">About Cookies</a></li>
-                                <li id="menu-item-14059"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14059"><a
-                                        href="#">Privacy Policy</a></li>
-                                <li id="menu-item-14060"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14060"><a
-                                        href="#">Accessibility</a></li>
-                                <li id="menu-item-14060"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14060"><a
-                                        href="#">Information</a></li>
+                                        href="#">Privacy Policy</a></li> 
                             </ul>
                         </div>
                     </div>
