@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home 1 – Nexgen</title>
+    <title>Oceano Apex</title>
     <link rel="preload" data-rocket-preload="" as="image"
         href="https://nexgen.codings.dev/wp-content/uploads/2021/03/bg-1.jpg" fetchpriority="high">
     <meta name="robots" content="max-image-preview:large">
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link rel="alternate" type="application/rss+xml" title="Nexgen » Feed" href="https://nexgen.codings.dev/feed/">
-    <link rel="alternate" type="application/rss+xml" title="Nexgen » Comments Feed"
+    <link rel="alternate" type="application/rss+xml" title="Oceano Apex » Feed" href="#">
+    <link rel="alternate" type="application/rss+xml" title="Oceano Apex » Comments Feed"
         href="https://nexgen.codings.dev/comments/feed/">
     <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
         href="https://nexgen.codings.dev/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnexgen.codings.dev%2Fhome-1%2F">
@@ -805,14 +805,14 @@
                     <li class="nav-item">
 
                         <a href="#" target="_self" class="nav-link m-0"><i
-                                class="fas fa-phone-alt text-after"></i>+1 (305) 1234-5678</a>
+                                class="fas fa-phone-alt text-after"></i>+971 585015666</a>
                     </li>
 
 
                     <li class="nav-item">
 
                         <a href="#" target="_self" class="nav-link m-0"><i
-                                class="fas fa-envelope text-after"></i>hello@example.com</a>
+                                class="fas fa-envelope text-after"></i>oceanoapexdubai@icloud.com</a>
                     </li>
 
 
@@ -852,9 +852,9 @@
                 <!-- Navbar [left] -->
 
                 <a href="https://nexgen.codings.dev/" class="navbar-brand">
-                    <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Nexgen"
+                    <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Oceano Apex"
                         class="d-none d-sm-block desktop-logo"><img width="286" height="100"
-                        src="images/Oceano-Apex-Logo.png" alt="Nexgen" class="d-block d-sm-none responsive-logo"> </a>
+                        src="images/Oceano-Apex-Logo.png" alt="Oceano Apex" class="d-block d-sm-none responsive-logo"> </a>
 
 
                 <!-- Nav holder -->
@@ -2817,9 +2817,9 @@
 
                         <div class="content-block brand">
                             <a href="" class="navbar-brand">
-                                <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Nexgen"
+                                <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Oceano Apex"
                                     class="d-none d-sm-block desktop-logo"><img width="286" height="100"
-                                    src="images/Oceano-Apex-Logo.png" alt="Nexgen"
+                                    src="images/Oceano-Apex-Logo.png" alt="Oceano Apex"
                                     class="d-block d-sm-none responsive-logo"> </a>
                         </div>
 
@@ -2951,7 +2951,7 @@
                             <li class="nav-item d-block d-md-inline-flex">
 
                                 <a href="https://themeasy.co" target="_blank" class="nav-link">© 2026 - All rights
-                                    reserved. Nexgen is maintained by Themeasy.</a>
+                                    reserved. Oceano Apex is maintained by Themeasy.</a>
                             </li>
 
 
