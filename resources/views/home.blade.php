@@ -1459,7 +1459,7 @@
 /* Text beside */
 .progress-block h3 {
     font-size: 20px;
-    color: #2b2b2b;
+    color: #ffffff;
     line-height: 1.4;
     text-align: left;
 }
