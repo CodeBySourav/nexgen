@@ -2260,7 +2260,7 @@ select:focus {
 .working-process-area {
     position: relative;
     display: block;
-    background: var(--thm-primary);
+    background: #FAF3E0;
     padding: 120px 0px 70px;
     counter-reset: count;
 }
