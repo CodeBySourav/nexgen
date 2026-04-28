@@ -17,6 +17,27 @@
         href="https://nexgen.codings.dev/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnexgen.codings.dev%2Fhome-1%2F">
     <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
         href="https://nexgen.codings.dev/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnexgen.codings.dev%2Fhome-1%2F&format=xml">
+    <style>
+                                .signature-box {
+                                    margin-top: 20px;
+                                }
+
+                                .signature-name {
+                                    font-family: 'Great Vibes', cursive; /* signature style font */
+                                    font-size: 40px;
+                                    color: #2c2c2c;
+                                    margin: 0;
+                                    display: inline-block;
+                                }
+
+                                .designation {
+                                    font-size: 18px;
+                                    color: #7a8a99;
+                                    margin-left: 10px;
+                                    font-weight: 500;
+                                }
+                                </style>
+                                <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
     <style id="wp-img-auto-sizes-contain-inline-css" type="text/css">
         img:is([sizes=auto i],[sizes^="auto," i]) {
             contain-intrinsic-size: 3000px 1500px
@@ -934,7 +955,47 @@
 
                                         <div class="swiper-wrapper">
 
-                                             
+                                             <div class="swiper-slide slide-center">
+
+												<img fetchpriority="high" width="1920" height="1064" decoding="async"
+													src="images/bg-1.jpg" alt="Image" class="full-image">
+
+												<div class="slide-content row">
+													<div
+														class="col-12 d-flex justify-content-start justify-content-lg-start text-left text-md-left inner">
+														<div class="slide-width" style="width: 50%">
+
+
+															<h1 class="heading title" data-aos="zoom-in"
+																data-aos-delay="400">
+																Business Consulting </h1>
+
+															<p class="paragraph description" data-aos="zoom-in"
+																data-aos-delay="800">
+																We drive product and service innovation, improve
+																financial performance, accelerate market speed. </p>
+
+															<div class="buttons buttons" data-aos="fade-up"
+																data-aos-delay="1200">
+																<div class="d-sm-inline-flex">
+
+
+																	<a href="#contact-1" target="_blank" rel="nofollow"
+																		class="mt-4 btn primary-button">
+																		GET IN TOUCH </a>
+
+
+																	<a href="#read-more-1" target="_blank"
+																		rel="nofollow"
+																		class="ml-sm-4 mt-4 btn secondary-button">
+																		READ MORE </a>
+
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
                                             <div class="swiper-slide slide-center">
 
                                                 <img width="1920" height="1064" decoding="async"
@@ -1144,7 +1205,7 @@
                         <section
                             class="elementor-section elementor-inner-section elementor-element elementor-element-7d04b53 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
                             data-id="7d04b53" data-element_type="section">
-                            <div class="elementor-container elementor-column-gap-extended">
+                            <div class="elementor-container elementor-column-gap-extended" style="justify-content: center;">
                                 <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a1f9924"
                                     data-id="a1f9924" data-element_type="column">
                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -1164,7 +1225,7 @@
 
                                                                 <div class="text-left">
                                                                     <h4 class="heading">
-                                                                        HEDGU FUNDS </h4>
+                                                                        Hedge Fund  </h4>
                                                                 </div>
 
                                                                 <div class="text-left">
@@ -1223,7 +1284,7 @@
 
                                                                 <div class="text-left">
                                                                     <h4 class="heading">
-                                                                        Financial Advisory </h4>
+                                                                        Treasury management </h4>
                                                                 </div>
 
                                                                 <div class="text-left">
@@ -1333,9 +1394,10 @@
                                 
 
                                 <div class="signature-box">
-                                    <h2 class="text-white">Kevin Martin <span>- CO Founder</span></h2>
+                                    <h2 class="signature-name">Kevin Martin</h2>
+                                    <span class="designation">- CO Founder</span>
                                 </div>
-
+                                
                             </div>
                         </div>
                     </div>
@@ -1940,6 +2002,140 @@
                 </div>
             </div>
         </section>
+
+
+
+        <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"/>
+
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        .testimonial-style1-area {
+            padding: 60px 0;
+        }
+
+        .single-testimonial-style1 {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 10px;
+        }
+
+        .bottom-box {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 15px;
+        }
+
+        .client-img img {
+            width: 60px;
+            height: 60px; 
+        }
+    </style>
+</head>
+
+<body>
+
+<section class="testimonial-style1-area">
+    <div class="container">
+        <div class="sec-title text-center">
+            <div class="sec-title text-center">
+                    <div class="sub-title">
+                        <div class="border-box"></div>
+                        <h3>our testimonials</h3>
+                    </div>
+                    <h2>What They Say?</h2>
+                </div> 
+        </div>
+
+        <div class="testimonial-carousel owl-carousel owl-theme">
+
+            <!-- Item -->
+            <div class="single-testimonial-style1">
+                <div class="text">
+                    <p>I was impresed by the company services, not lorem ipsum is simply free
+                                            text of used. Neque porro est qui dolorem ipsum quia.</p>
+                </div>
+                <div class="bottom-box">
+                    <div class="client-name">
+                        <h3>Christine Rose</h3>
+                        <span>Customer</span>
+                    </div>
+                    <div class="client-img">
+                        <img src="images/testimonial-v1-1.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Item -->
+            <div class="single-testimonial-style1">
+                <div class="text">
+                    <p>I was impresed by the company services, not lorem ipsum is simply free
+                                            text of used. Neque porro est qui dolorem ipsum quia.</p>
+                </div>
+                <div class="bottom-box">
+                    <div class="client-name">
+                        <h3>Mike Hardson</h3>
+                        <span>Customer</span>
+                    </div>
+                    <div class="client-img">
+                        <img src="images/testimonial-v1-2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Item -->
+            <div class="single-testimonial-style1">
+                <div class="text">
+                    <p>I was impresed by the company services, not lorem ipsum is simply free
+                                            text of used. Neque porro est qui dolorem ipsum quia.</p>
+                </div>
+                <div class="bottom-box">
+                    <div class="client-name">
+                        <h3>John Doe</h3>
+                        <span>Customer</span>
+                    </div>
+                    <div class="client-img">
+                        <img src="images/testimonial-v1-1.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<script>
+$(document).ready(function(){
+    $('.testimonial-carousel').owlCarousel({
+        loop: true,
+        margin: 30,
+        autoHeight: true,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        smartSpeed: 600,
+        responsive:{
+            0:{ items:1 },
+            768:{ items:1 },
+            992:{ items:2 }
+        }
+    });
+});
+</script>
+
         
 
         <section
