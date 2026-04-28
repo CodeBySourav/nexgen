@@ -18,10 +18,7 @@
     <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
         href="https://nexgen.codings.dev/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnexgen.codings.dev%2Fhome-1%2F&format=xml">
     <style>
-                                .signature-box {
-                                    margin-top: 20px;
-                                }
-
+                                
                                 .signature-name {
                                     font-family: 'Great Vibes', cursive; /* signature style font */
                                     font-size: 40px;
@@ -1393,10 +1390,101 @@
 
                                 
 
-                                <div class="signature-box">
-                                    <h2 class="signature-name">Kevin Martin</h2>
-                                    <span class="designation">- CO Founder</span>
-                                </div>
+                                <div class="progress-section">
+    <div class="row">
+        
+        <!-- Item 1 -->
+        <div class="progress-block">
+            <div class="circle" data-percent="90">
+                <span>90%</span>
+            </div>
+            <h3>Client <br> Satisfied</h3>
+        </div>
+
+        <!-- Item 2 -->
+        <div class="progress-block">
+            <div class="circle" data-percent="50">
+                <span>50%</span>
+            </div>
+            <h3>Finance <br> Consulting</h3>
+        </div>
+
+    </div>
+
+    <div class="signature-box">
+        <h2>Kevin Martin <span>- CO Founder</span></h2>
+    </div>
+</div>
+<style>
+ 
+
+/* Progress Block */
+.progress-block {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+        padding: 4px;
+}
+
+/* Circle Progress */
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: conic-gradient(#20bad1 calc(var(--percent) * 1%), #e6eef0 0%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+/* Inner white circle */
+.circle::before {
+    content: "";
+    position: absolute;
+    width: 95px;
+    height: 95px;
+    background: #f4f6f7;
+    border-radius: 50%;
+}
+
+/* Percentage text */
+.circle span {
+    position: relative;
+    font-size: 22px;
+    font-weight: 600;
+    color: #20bad1;
+}
+
+/* Text beside */
+.progress-block h3 {
+    font-size: 20px;
+    color: #2b2b2b;
+    line-height: 1.4;
+    text-align: left;
+}
+ 
+
+.signature-box h2 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.signature-box span {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #6c7a89;
+    margin-left: 10px;
+}
+</style>
+<script>
+    document.querySelectorAll('.circle').forEach(circle => {
+        let percent = circle.getAttribute('data-percent');
+        circle.style.setProperty('--percent', percent);
+    });
+</script>
                                 
                             </div>
                         </div>

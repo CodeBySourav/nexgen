@@ -224,8 +224,7 @@
 .signature-box {
     position: relative;
     display: block;
-    padding-top: 29px;
-    top: 10px;
+    padding-top: 29px; 
 }
 
 .signature-box h2 {
