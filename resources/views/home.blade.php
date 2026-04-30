@@ -1431,7 +1431,7 @@
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background: conic-gradient(#20bad1 calc(var(--percent) * 1%), #e6eef0 0%);
+    background: conic-gradient(#FAF3E0 calc(var(--percent) * 1%), #959171 0%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1444,7 +1444,7 @@
     position: absolute;
     width: 95px;
     height: 95px;
-    background: #f4f6f7;
+    background: #000000;
     border-radius: 50%;
 }
 
@@ -1453,7 +1453,7 @@
     position: relative;
     font-size: 22px;
     font-weight: 600;
-    color: #20bad1;
+    color: #FAF3E0;
 }
 
 /* Text beside */

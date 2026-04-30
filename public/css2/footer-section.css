@@ -34,9 +34,7 @@
 .footer {
     position: relative;
     display: block;
-    overflow: hidden;
-    padding-top: 120px;
-    padding-bottom: 114px;
+    overflow: hidden; 
     z-index: 9;
 }
 
