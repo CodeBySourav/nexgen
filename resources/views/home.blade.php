@@ -1036,6 +1036,47 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="swiper-slide slide-center">
+
+												<img width="1920" height="1064" decoding="async" src="images/bg-3.jpg"
+													alt="Image" class="full-image">
+
+												<div class="slide-content row">
+													<div
+														class="col-12 d-flex justify-content-start justify-content-lg-end text-left text-md-right inner">
+														<div class="slide-width" style="width: 40%">
+
+
+															<h1 class="heading title" data-aos="zoom-in"
+																data-aos-delay="400">
+																Audit & Assurance </h1>
+
+															<p class="paragraph description" data-aos="zoom-in"
+																data-aos-delay="800">
+																Our focus is to map the technologies to solve the
+																business transformation, offering services. </p>
+
+															<div class="buttons buttons" data-aos="fade-up"
+																data-aos-delay="1200">
+																<div class="d-sm-inline-flex">
+
+
+																	<a href="#contact-3" target="_blank" rel="nofollow"
+																		class="mt-4 btn primary-button">
+																		GET IN TOUCH </a>
+
+
+																	<a href="#read-more-3" target="_blank"
+																		rel="nofollow"
+																		class="ml-sm-4 mt-4 btn secondary-button">
+																		READ MORE </a>
+
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
                                              
 
                                         </div>
