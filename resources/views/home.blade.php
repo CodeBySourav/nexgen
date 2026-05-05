@@ -946,7 +946,7 @@
 
                                 <section class="hero">
                                     <div class="swiper-container full-slider animation slider-h-100 slider-h-auto"
-                                        data-speed="10000">
+                                        data-speed="2000">
 
 
 
