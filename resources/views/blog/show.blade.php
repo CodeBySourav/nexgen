@@ -7,7 +7,7 @@
     <div class="container"> 
         <h1 class="text-center mt-4">{{ $post->title }}</h1>
 
-        <div class="mt-4">
+        <div class="mt-4" text-white">
             {!! $post->content !!}
         </div>
     </div>
