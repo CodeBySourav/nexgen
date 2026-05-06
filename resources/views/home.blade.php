@@ -870,9 +870,9 @@
                 <!-- Navbar [left] -->
 
                 <a href="https://nexgen.codings.dev/" class="navbar-brand">
-                    <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Oceano Apex"
+                    <img width="286" height="100" src="{{ asset('images/Oceano-Apex-Logo.png') }}" alt="Oceano Apex"
                         class="d-none d-sm-block desktop-logo"><img width="286" height="100"
-                        src="images/Oceano-Apex-Logo.png" alt="Oceano Apex" class="d-block d-sm-none responsive-logo"> </a>
+                        src="{{ asset('images/Oceano-Apex-Logo.png') }}" alt="Oceano Apex" class="d-block d-sm-none responsive-logo"> </a>
 
 
                 <!-- Nav holder -->
@@ -2593,9 +2593,9 @@ $(document).ready(function(){
 
                         <div class="content-block brand">
                             <a href="" class="navbar-brand">
-                                <img width="286" height="100" src="images/Oceano-Apex-Logo.png" alt="Oceano Apex"
+                                <img width="286" height="100" src="{{ asset('images/Oceano-Apex-Logo.png') }}" alt="Oceano Apex"
                                     class="d-none d-sm-block desktop-logo"><img width="286" height="100"
-                                    src="images/Oceano-Apex-Logo.png" alt="Oceano Apex"
+                                    src="{{ asset('images/Oceano-Apex-Logo.png') }}" alt="Oceano Apex"
                                     class="d-block d-sm-none responsive-logo"> </a>
                         </div>
 
