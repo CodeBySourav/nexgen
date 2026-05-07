@@ -6,10 +6,11 @@
 
     <title>@yield('title', 'Oceano Apex')</title>
 
+    @yield('meta')
+
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('css/default.css') }}">
-    
 </head>
 
 <body>
