@@ -940,215 +940,265 @@
         background-size: cover;
         background-attachment: fixed;
         background-position: center; }
-        
+        section.section-3  { background-color: #111117;  background-image: images/bg-1.jpg; }
         </style>
     <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
         <!-- Hero -->
-        <section id="slider" class="hero p-0 odd featured">
-            <div class="swiper-container no-slider animation slider-h-50 slider-h-auto">
+         <!-- Hero -->
+        <section id="slider" class="hero p-0 odd">
+            <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
+
                 <div class="swiper-wrapper">
 
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <video class="full-image to-bottom" data-mask="70" playsinline autoplay muted loop>
-                            <source src="videos/work.mp4" type="video/mp4" />
-                        </video> 
+                        <div class="parallax-y-bg" style="background-image:url(images/bg-8.jpg)"></div>
 
-                        <div class="slide-content row text-center">
-                            <div class="col-12 mx-auto inner">
+                        <div class="slide-content row">
+                            <div class="col-12 d-flex justify-content-start justify-content-md-end inner">
+                                <div class="right alt pb-0 text-left">
 
-                                <!-- Content -->
-                                <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
-                                    <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-                                    </ol>
-                                </nav>
-                                <h1 class="mb-0 title effect-static-text">Contact Us</h1>
+                                    <!-- Content -->
+                                    <h1 class="title effect-static-text">
+                                        <span class="pre-title m-0">Fusions & acquisitions</span>
+                                        Insurance Consulting
+                                    </h1>
+                                    
+                                    <!-- Action -->
+                                    <form action="php/form.php" id="nexgen-simple-form" class="nexgen-simple-form">
+                                        <input type="hidden" name="section" value="nexgen_form">
+    
+                                        <input type="hidden" name="reCAPTCHA">
+                                        <!-- Remove this field if you want to disable recaptcha -->
+    
+                                        <div class="row form-group-margin">
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="text" name="name" class="form-control field-name" placeholder="Name">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="email" name="email" class="form-control field-email" placeholder="Email">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="text" name="phone" class="form-control field-phone" placeholder="Phone">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <i class="icon-arrow-down mr-3"></i>
+                                                <select name="info" class="form-control field-info">
+                                                    <option value="" selected disabled>More Info</option>
+                                                    <option>Audit & Assurance</option>
+                                                    <option>Financial Advisory</option>
+                                                    <option>Analytics and M&A</option>
+                                                    <option>Middle Marketing</option>
+                                                    <option>Legal Consulting</option>
+                                                    <option>Regulatory Risk</option>
+                                                    <option>Other</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-12 col-12 m-0 pl-md-2">
+                                                <span class="form-alert"></span>
+                                            </div>
+                                            
+                                            <!-- Action -->
+                                            <div class="col-12 input-group m-0 p-2 buttons">
+                                                <div class="d-sm-inline-flex">
+                                                    <a class="mt-4 mt-sm-0 btn primary-button">GET IN TOUCH</a>
+                                                    <a href="#single" class="smooth-anchor mt-4 mt-sm-0 ml-sm-3 btn outline-button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
 
-        <!-- Contact -->
-        <section id="contact" class="section-1 form contact">
+        <!-- Single -->
+        <section id="single" class="section-1 single">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-8 pr-md-5 align-self-center text">
-                        <div class="row intro">
-                            <div class="col-12 p-0">
-                                <span class="pre-title m-0">Send a message</span>
-                                <h2>Get in <span class="featured"><span>Touch</span></span></h2>
-                                <p>We will respond to your message as soon as possible.</p>
+
+                    <!-- Main -->
+                    <div class="col-12 col-lg-8 p-0 text">
+                        <div class="row intro m-0">
+                            <div class="col-12">
+                                <span class="pre-title m-0">Fusions & acquisitions</span>
+                                <div class="title-icon">
+                                    
+                                    <h2><span class="featured"><span><i class="icon icon-notebook"></i>HEDGE </span></span> FUND</h2>
+                                </div>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-12 p-0">
-                                <form action="php/form.php" id="nexgen-simple-form" class="nexgen-simple-form">
-                                    <input type="hidden" name="section" value="nexgen_form">
-
-                                    <input type="hidden" name="reCAPTCHA">
-                                    <!-- Remove this field if you want to disable recaptcha -->
-
-                                    <div class="row form-group-margin">
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="text" name="name" class="form-control field-name" placeholder="Name">
-                                        </div>
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="email" name="email" class="form-control field-email" placeholder="Email">
-                                        </div>
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="text" name="phone" class="form-control field-phone" placeholder="Phone">
-                                        </div>
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <i class="icon-arrow-down mr-3"></i>
-                                            <select name="info" class="form-control field-info">
-                                                <option value="" selected disabled>More Info</option>
-                                                <option>Audit & Assurance</option>
-                                                <option>Financial Advisory</option>
-                                                <option>Analytics and M&A</option>
-                                                <option>Middle Marketing</option>
-                                                <option>Legal Consulting</option>
-                                                <option>Regulatory Risk</option>
-                                                <option>Other</option>
-                                            </select>
-                                        </div>
-                                        <div class="col-12 m-0 p-2 input-group">
-                                            <textarea name="message" class="form-control field-message" placeholder="Message"></textarea>
-                                        </div>
-                                        <div class="col-12 col-12 m-0 p-2 input-group">
-                                            <span class="form-alert"></span>
-                                        </div>
-                                        <div class="col-12 input-group m-0 p-2">
-                                            <a class="btn primary-button">SEND</a>
-                                        </div>
-                                    </div>
-                                </form>
+                            <div class="col-12 align-self-center">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum velit tortor, interdum sed cursus eu, sagittis ut nunc. Sed vitae tellus et arcu aliquet faucibus fermentum non lacus.</p>
+                                <p>Praesent fringilla quis massa et placerat. Mauris eu dui eget urna pellentesque gravida vitae quis nibh. Ut at augue tortor. Pellentesque quis suscipit magna.</p>
+                                <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quam tortor, ultrices accumsan mauris eget, pulvinar tincidunt erat. Sed nisi nisi, rutrum sit amet elit.</blockquote>
+                                <p>Sed mauris nulla, tempor eu est vel, dapibus hendrerit mauris curabitur dictum pharetra.</p>
+                                <ul>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Consectetur adipiscing elit</li>
+                                    <li>Integer molestie lorem at massa</li>
+                                    <li>Facilisis in pretium nisl aliquet</li>
+                                    <li>Dapibus hendrerit mauris curabitur</li>
+                                </ul>
+                                <p>Etiam mollis sem sed bibendum blandit. Aenean quis luctus ligula, vitae suscipit dui.</p>
                             </div>
-                        </div>                        
+                        </div>        
                     </div>
-                    <div class="col-12 col-md-4">
-                        <div class="contacts">
-                            <h4>Example Inc.</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                            <p>Curabitur convallis, diam a egestas iaculis, neque lorem interdum felis, in viverra lacus tortor in leo.</p>
-                            <ul class="navbar-nav">
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        <i class="fas fa-phone-alt mr-2"></i>
-                                        +1 (305) 1234-5678
+
+                    <!-- Sidebar -->
+                    <aside class="col-12 col-lg-4 pl-lg-5 p-0 float-right sidebar">
+                            
+                        <!-- Services -->
+                        <div class="row item widget-services">
+                            <div class="col-12 align-self-center">
+                                <h4 class="title">Our Services</h4>
+                                <div class="quote">
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item d-flex justify-content-start align-items-center">
+                                            <a href="#"><i class="icon icon-organization"></i></a>
+                                            <div class="list-group-content">
+                                                <h4>Audit & Assurance</h4> 
+                                            </div>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-start align-items-center">
+                                            <a href="#"><i class="icon icon-briefcase"></i></a>
+                                            <div class="list-group-content">
+                                                <h4>Financial Advisory</h4> 
+                                            </div>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-start align-items-center">
+                                            <a href="#"><i class="icon icon-chart"></i></a>
+                                            <div class="list-group-content">
+                                                <h4>Analytics<br>and M&A</h4> 
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>   
+
+                        <!-- Gallery -->
+                        <div class="row item widget-gallery mb-0">
+                            <div class="col-12 align-self-center">
+                                <h4 class="title">Certifications</h4>
+                                <div class="gallery row justify-content-center">
+                                    <a class="col-6 pl-0 item" href="assets/images/certificate.png">
+                                        <img src="images/certificate.png" alt="Certificate" class="w-100">
                                     </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        <i class="fas fa-envelope mr-2"></i>
-                                        hello@example.com
+                                    <a class="col-6 pr-0 item" href="assets/images/certificate.png">
+                                        <img src="images/certificate.png" alt="Certificate" class="w-100">
                                     </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        <i class="fas fa-map-marker-alt mr-2"></i>
-                                        Main Avenue, 987
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW MAP</a>
-                                </li>
-                            </ul>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                    </aside>
                 </div>
             </div>
         </section>
 
         <!-- About -->
-        <section id="about" class="section-2 highlights image-right" style="background-color: #eef4ed;">
+        <section id="about-2" class="section-2 highlights image-right counter funfacts" style="background-color: #eef4ed;">
             <div class="container">
             <div class="row">
-                <div class="col-12 col-md-4 pr-md-5 align-self-top text">
-                    <div data-aos="fade-up"  class="row intro">
+                <div class="col-12 col-md-6 pr-md-5 align-self-top text">
+                    <div data-aos="fade-up"  class="row intro mb-0">
                         <div class="col-12 p-0">
-                            <span class="pre-title m-0">Talk to an expert</span>
-                            <h2>Our<br>Business<br>Units</h2>
+                            <span class="pre-title m-0">Sharing knowledge</span>
+                            <h2><span class="featured"><span>Our</span></span> Results</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis diam varius diam ultricies lacinia.</p>
+                            <p>Mauris lacus tellus, ultrices eu volutpat sit amet, finibus a ipsum.</p>
                             <p>Curabitur convallis, diam a egestas iaculis, neque lorem interdum felis, in viverra lacus tortor in leo.</p>
+                            <blockquote>Donec tristique diam id mi venenatis facilisis eget sed mi. Phasellus malesuada nulla diam, a dignissim quam.</blockquote>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-4 pr-md-5 align-self-top text">
-                    <div class="row items">                             
-                        <div data-aos="fade-up" class="col-12 p-0 pr-md-4 item">
-                            <div class="contacts">
-                                <h4>Branch</h4>
-                                <ul class="navbar-nav">
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-phone-alt mr-2"></i>
-                                            +1 (305) 1234-5678
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-envelope mr-2"></i>
-                                            hello@example.com
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-map-marker-alt mr-2"></i>
-                                            Main Avenue, 987
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW MAP</a>
-                                    </li>
-                                </ul>
+                <div class="col-12 col-md-6 pr-md-5 align-self-top text">
+    
+                    <div class="row items">
+
+                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
+                            <div data-percent="128" class="radial left">
+                                <span>128</span>
                             </div>
-                        </div>     
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 pr-md-5 align-self-top text">
-                    <div class="row items">                             
-                        <div data-aos="fade-up" class="col-12 p-0 pr-md-4 item">
-                            <div class="contacts">
-                                <h4>Headquarters</h4>
-                                <ul class="navbar-nav">
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-phone-alt mr-2"></i>
-                                            +1 (305) 1234-5678
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-envelope mr-2"></i>
-                                            hello@example.com
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-map-marker-alt mr-2"></i>
-                                            Main Avenue, 987
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW MAP</a>
-                                    </li>
-                                </ul>
+                            <h4>Certifications</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                        </div>
+
+                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
+                            <div data-percent="230" class="radial left">
+                                <span>230</span>
                             </div>
-                        </div>     
+                            <h4>Employees</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                        </div>
+
                     </div>
+
+                    <div class="row items"> 
+
+                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
+                            <div data-percent="517" class="radial left">
+                                <span>517</span>
+                            </div>
+                            <h4>Customers</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                        </div>
+
+                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
+                            <div data-percent="94" class="radial left">
+                                <span>94</span>
+                            </div>
+                            <h4>Countries Served</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
             </div>
         </section>
 
-<!--Start About Style1 Area-->
-         
+        <!-- Subscribe -->
+        <section id="subscribe" class="section-3 odd subscribe">
+            <div class="container smaller">
+                <div class="row">
+                    <div class="col-12 col-md-6 m-md-0 intro">
+                        <span class="pre-title m-0">Newsletter</span>
+                        <h2><span class="featured"><span>Know</span></span> First</h2>
+                        <p>Follow closely and receive content about our company and the news of the current market.</p>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <form action="php/form.php" id="nexgen-subscribe" class="row m-auto items">
+                            <input type="hidden" name="section" value="nexgen_subscribe">
+
+                            <input type="hidden" name="reCAPTCHA">
+                            <!-- Remove this field if you want to disable recaptcha -->
+
+                            <div class="col-12 mt-0 input-group align-self-center item">
+                                <input type="text" name="name" class="form-control less-opacity field-name" placeholder="Name">
+                            </div>
+                            <div class="col-12 input-group align-self-center item">
+                                <input type="email" name="email" class="form-control less-opacity field-email" placeholder="Email">
+                            </div>
+                            <div class="col-12 input-group align-self-center item">
+                                <a data-aos="zoom-in" class="btn primary-button">SUBSCRIBE</a>
+                            </div>
+                            <div class="col-12 item">
+                                <span class="form-alert mt-3 mb-0"></span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
          
 
          
