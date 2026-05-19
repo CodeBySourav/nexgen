@@ -886,11 +886,11 @@
                      
                     <li id="menu-item-10573"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
-                            href="#" class="nav-link">HOME</a></li>
+                            href="{{ route('home') }}" class="nav-link">HOME</a></li>
 
                     <li id="menu-item-10573"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
-                            href="#" class="nav-link">ABOUT</a></li>
+                            href="{{ route('about') }}" class="nav-link">ABOUT</a></li>
                     <li id="menu-item-10573"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10573 nav-item"><a
                             href="#" class="nav-link">SERVICES</a></li>
@@ -951,7 +951,7 @@
                                 <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">About Us</li>
+                                        <li class="breadcrumb-item active" aria-current="page"><a href="{{ route('about') }}">About Us</a></li>
                                     </ol>
                                 </nav>
                                 <h1 class="mb-0 title effect-static-text">About Us</h1>
@@ -1378,7 +1378,7 @@ $(document).ready(function(){
                             <ul id="menu-nexgen-footer-1" class="footer-link-list">
                             <li id="menu-item-10684"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
-                                        href="#">About us</a></li>
+                                        href="{{ route('about') }}">About us</a></li>
                                 <li id="menu-item-10684"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
                                         href="#">Contact </a></li>
