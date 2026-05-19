@@ -86,8 +86,12 @@
                             </td>
 
                             <!-- Category (optional - if you don’t have, show default) -->
-                            <td class="px-6 py-4 text-sm text-gray-600 font-medium">
-                                {{ $post->title }}
+                            <td class="px-6 py-4 text-sm font-medium">
+                                <a href="{{ route('blog.show', $post->slug) }}"
+                                target="_blank"
+                                class="text-indigo-600 hover:text-indigo-800 hover:underline">
+                                    {{ $post->slug }}
+                                </a>
                             </td>
 
                             <!-- Date -->
