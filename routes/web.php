@@ -14,6 +14,10 @@ Route::get('/about', function () {
     return view('about');
 })->name('about');
 
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');
+
 Route::get('/blog', [PostController::class, 'blog'])->name('blog.index');
 Route::get('/blog/{slug}', [PostController::class, 'showBlog'])->name('blog.show');
 
