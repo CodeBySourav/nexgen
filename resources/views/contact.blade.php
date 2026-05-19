@@ -1277,7 +1277,7 @@ $(document).ready(function(){
                                         href="{{ route('about') }}">About us</a></li>
                                 <li id="menu-item-10684"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10684"><a
-                                        href="#">Contact </a></li>
+                                        href="{{ route('contact') }}">Contact </a></li>
                                 <li id="menu-item-10685"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10685"><a
                                         href="#">Blog </a></li> 
