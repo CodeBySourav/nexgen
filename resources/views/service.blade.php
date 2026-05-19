@@ -932,37 +932,7 @@
 
 
     </header>
-    <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
-         <!-- Hero -->
-        <section id="slider" class="hero p-0 odd featured">
-            <div class="swiper-container no-slider animation slider-h-50 slider-h-auto">
-                <div class="swiper-wrapper">
-
-                    <!-- Item 1 -->
-                    <div class="swiper-slide slide-center">
-
-                        <!-- Media -->
-                        <img src="images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">
-
-                        <div class="slide-content row text-center">
-                            <div class="col-12 mx-auto inner">
-
-                                <!-- Content -->
-                                <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
-                                    <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page"><a href="{{ route('about') }}">About Us</a></li>
-                                    </ol>
-                                </nav>
-                                <h1 class="mb-0 title effect-static-text">About Us</h1>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-        <style>
+    <style>
         section {
         position: relative;
         width: 100%;
@@ -970,67 +940,174 @@
         background-size: cover;
         background-attachment: fixed;
         background-position: center; }
-        
+        section.section-3  { background-color: #111117;  background-image: images/bg-1.jpg; }
         </style>
-        <!-- About -->
-        <section id="about" class="section-1 highlights team image-right" >
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-lg-8 align-self-top text">
-                        <div class="row intro m-0">
-                            <div class="col-12 p-0">
-                                <span class="pre-title m-0">A success story</span>
-                                <h2><span class="featured"><span>Who </span></span> We Are</h2>
+    <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
+        <!-- Hero -->
+         <!-- Hero -->
+        <section id="slider" class="hero p-0 odd">
+            <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
+
+                <div class="swiper-wrapper">
+
+                    <!-- Item 1 -->
+                    <div class="swiper-slide slide-center">
+
+                        <!-- Media -->
+                        <div class="parallax-y-bg" style="background-image:url(images/bg-8.jpg)"></div>
+
+                        <div class="slide-content row">
+                            <div class="col-12 d-flex justify-content-start justify-content-md-end inner">
+                                <div class="right alt pb-0 text-left">
+
+                                    <!-- Content -->
+                                    <h1 class="title effect-static-text">
+                                        <span class="pre-title m-0">Fusions & acquisitions</span>
+                                        Insurance Consulting
+                                    </h1>
+                                    
+                                    <!-- Action -->
+                                    <form action="php/form.php" id="nexgen-simple-form" class="nexgen-simple-form">
+                                        <input type="hidden" name="section" value="nexgen_form">
+    
+                                        <input type="hidden" name="reCAPTCHA">
+                                        <!-- Remove this field if you want to disable recaptcha -->
+    
+                                        <div class="row form-group-margin">
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="text" name="name" class="form-control field-name" placeholder="Name">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="email" name="email" class="form-control field-email" placeholder="Email">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="text" name="phone" class="form-control field-phone" placeholder="Phone">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <i class="icon-arrow-down mr-3"></i>
+                                                <select name="info" class="form-control field-info">
+                                                    <option value="" selected disabled>More Info</option>
+                                                    <option>Audit & Assurance</option>
+                                                    <option>Financial Advisory</option>
+                                                    <option>Analytics and M&A</option>
+                                                    <option>Middle Marketing</option>
+                                                    <option>Legal Consulting</option>
+                                                    <option>Regulatory Risk</option>
+                                                    <option>Other</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-12 col-12 m-0 pl-md-2">
+                                                <span class="form-alert"></span>
+                                            </div>
+                                            
+                                            <!-- Action -->
+                                            <div class="col-12 input-group m-0 p-2 buttons">
+                                                <div class="d-sm-inline-flex">
+                                                    <a class="mt-4 mt-sm-0 btn primary-button">GET IN TOUCH</a>
+                                                    <a href="#single" class="smooth-anchor mt-4 mt-sm-0 ml-sm-3 btn outline-button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-12 p-0 pr-md-5">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis diam varius diam ultricies lacinia. <b>Mauris lacus tellus, ultrices eu volutpat sit amet, finibus a ipsum.</b> Nullam sit amet pretium felis.</p>
-                                <p>Curabitur convallis, diam a egestas iaculis, neque lorem interdum felis, in viverra lacus tortor in leo.</p>
-                                <p>Donec tristique diam id mi venenatis facilisis eget sed mi. Phasellus malesuada nulla diam, a dignissim quam congue et.</p>
-                                <p><b>Cras sem ante, accumsan quis sem sed, rutrum varius nunc.</b></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div data-aos="zoom-in" class="col-12 col-lg-4">
-                        <div class="quote mt-5 mt-lg-0">
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item d-flex justify-content-center align-items-center">
-                                    <a href="#"><i style="color:black" class="icon icon-rocket"></i></a>
-                                    <div class="list-group-content">
-                                        <h4 style="color:black">Mission</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    </div>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-center align-items-center">
-                                    <a href="#"><i style="color:black" class="icon icon-eye"></i></a>
-                                    <div class="list-group-content">
-                                        <h4 style="color:black">Vision</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    </div>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-center align-items-center">
-                                    <a href="#"><i style="color:black" class="icon icon-present"></i></a>
-                                    <div class="list-group-content">
-                                        <h4 style="color:black">Values</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    </div>
-                                </li>
-                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- About 2 -->
-        <section id="about-2" class="section-2 odd highlights image-right counter funfacts featured"
-            style=" 
-        background-color: #101016;">
+        <!-- Single -->
+        <section id="single" class="section-1 single">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Main -->
+                    <div class="col-12 col-lg-8 p-0 text">
+                        <div class="row intro m-0">
+                            <div class="col-12">
+                                <span class="pre-title m-0">Fusions & acquisitions</span>
+                                <div class="title-icon">
+                                    
+                                    <h2><span class="featured"><span><i class="icon icon-notebook"></i>HEDGE </span></span> FUND</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 align-self-center">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum velit tortor, interdum sed cursus eu, sagittis ut nunc. Sed vitae tellus et arcu aliquet faucibus fermentum non lacus.</p>
+                                <p>Praesent fringilla quis massa et placerat. Mauris eu dui eget urna pellentesque gravida vitae quis nibh. Ut at augue tortor. Pellentesque quis suscipit magna.</p>
+                                <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quam tortor, ultrices accumsan mauris eget, pulvinar tincidunt erat. Sed nisi nisi, rutrum sit amet elit.</blockquote>
+                                <p>Sed mauris nulla, tempor eu est vel, dapibus hendrerit mauris curabitur dictum pharetra.</p>
+                                <ul>
+                                    <li>Lorem ipsum dolor sit amet</li>
+                                    <li>Consectetur adipiscing elit</li>
+                                    <li>Integer molestie lorem at massa</li>
+                                    <li>Facilisis in pretium nisl aliquet</li>
+                                    <li>Dapibus hendrerit mauris curabitur</li>
+                                </ul>
+                                <p>Etiam mollis sem sed bibendum blandit. Aenean quis luctus ligula, vitae suscipit dui.</p>
+                            </div>
+                        </div>        
+                    </div>
+
+                    <!-- Sidebar -->
+                    <aside class="col-12 col-lg-4 pl-lg-5 p-0 float-right sidebar">
+                            
+                        <!-- Services -->
+                        <div class="row item widget-services">
+                            <div class="col-12 align-self-center">
+                                <h4 class="title">Our Services</h4>
+                                <div class="quote">
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item d-flex justify-content-start align-items-center">
+                                            <a href="#"><i class="icon icon-organization"></i></a>
+                                            <div class="list-group-content">
+                                                <h4>Audit & Assurance</h4> 
+                                            </div>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-start align-items-center">
+                                            <a href="#"><i class="icon icon-briefcase"></i></a>
+                                            <div class="list-group-content">
+                                                <h4>Financial Advisory</h4> 
+                                            </div>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-start align-items-center">
+                                            <a href="#"><i class="icon icon-chart"></i></a>
+                                            <div class="list-group-content">
+                                                <h4>Analytics<br>and M&A</h4> 
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>   
+
+                        <!-- Gallery -->
+                        <div class="row item widget-gallery mb-0">
+                            <div class="col-12 align-self-center">
+                                <h4 class="title">Certifications</h4>
+                                <div class="gallery row justify-content-center">
+                                    <a class="col-6 pl-0 item" href="assets/images/certificate.png">
+                                        <img src="images/certificate.png" alt="Certificate" class="w-100">
+                                    </a>
+                                    <a class="col-6 pr-0 item" href="assets/images/certificate.png">
+                                        <img src="images/certificate.png" alt="Certificate" class="w-100">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </section>
+
+        <!-- About -->
+        <section id="about-2" class="section-2 highlights image-right counter funfacts" style="background-color: #eef4ed;">
             <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 pr-md-5 align-self-top text">
-                    <div data-aos="fade-up"  class="row intro m-0 m-md-auto">
+                    <div data-aos="fade-up"  class="row intro mb-0">
                         <div class="col-12 p-0">
                             <span class="pre-title m-0">Sharing knowledge</span>
                             <h2><span class="featured"><span>Our</span></span> Results</h2>
@@ -1088,171 +1165,40 @@
             </div>
         </section>
 
-        <!-- About 3 -->
-        <section id="about-3" class="section-3 highlights image-right featured">
-            <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 pr-md-5 align-self-center text-center text-md-left text">
-                    <div data-aos="fade-up"  class="row intro">
-                        <div class="col-12 p-0">
-                            <span class="pre-title m-auto m-md-0">About the network</span>
-                            <h2><span class="featured"><span>The</span></span> Company</h2>
-                            <p>For 12 years we have been providing audit and warranty, financial advice, risk advice, taxes and related services to select clients.</p>
-                        </div>
+        <!-- Subscribe -->
+        <section id="subscribe" class="section-3 odd subscribe">
+            <div class="container smaller">
+                <div class="row">
+                    <div class="col-12 col-md-6 m-md-0 intro">
+                        <span class="pre-title m-0">Newsletter</span>
+                        <h2><span class="featured"><span>Know</span></span> First</h2>
+                        <p>Follow closely and receive content about our company and the news of the current market.</p>
                     </div>
-                    <div class="row items">                             
-                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 pr-md-4 item">
-                            <h4><i class="mr-2 icon-badge"></i>Tradition</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-                        </div>           
-                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 item">
-                            <h4><i class="mr-2 icon-lock"></i>Security</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-                        </div> 
-                    </div>
-                    <div class="row items"> 
-                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 item">
-                            <h4><i class="mr-2 icon-note"></i>Certificate</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-                        </div>  
-                        <div data-aos="fade-up" class="col-12 col-md-6 p-0 pr-md-4 item">
-                            <h4><i class="mr-2 icon-graduation"></i>Expertise</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 p-0 image">
-                    <img src="images/about-3.jpg" class="fit-image" alt="Fit Image">
-                </div>
-            </div>
-            </div>
-        </section>
+                    <div class="col-12 col-md-6">
+                        <form action="php/form.php" id="nexgen-subscribe" class="row m-auto items">
+                            <input type="hidden" name="section" value="nexgen_subscribe">
 
-        <!-- Testimonials -->
-        <section id="testimonials" class="section-4 carousel testimonials" style="background-color:#eef4ed">
-            <div class="overflow-holder">
-                <div class="container">
-                    <div class="row text-center intro">
-                        <div class="col-12">
-                            <span class="pre-title m-auto">Customer Testimonials</span>
-                            <h2>Trusted <span class="featured"><span>Feedback</span></span></h2>
-                            <p class="text-max-800">We work intensively in search of ideals that can add up in the lives of our customers. This is what moves us and we are grateful for the recognition.</p>
-                        </div>
-                    </div>
-                    <div class="swiper-container mid-slider items" data-perview="3"> 
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-1.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
+                            <input type="hidden" name="reCAPTCHA">
+                            <!-- Remove this field if you want to disable recaptcha -->
+
+                            <div class="col-12 mt-0 input-group align-self-center item">
+                                <input type="text" name="name" class="form-control less-opacity field-name" placeholder="Name">
                             </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-2.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
+                            <div class="col-12 input-group align-self-center item">
+                                <input type="email" name="email" class="form-control less-opacity field-email" placeholder="Email">
                             </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-3.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
+                            <div class="col-12 input-group align-self-center item">
+                                <a data-aos="zoom-in" class="btn primary-button">SUBSCRIBE</a>
                             </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-4.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
+                            <div class="col-12 item">
+                                <span class="form-alert mt-3 mb-0"></span>
                             </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-5.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-1.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-2.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-3.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-4.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card">
-                                    <div class="col-12">
-                                        <img src="images/logo-5.png" alt="Logo" class="logo">
-                                        <p>Praesent volutpat justo sit amet elementum malesuada. Praesent sagittis augue justo, in accumsan orci rhoncus at pellentesque.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <i class="quote-right fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </form>
                     </div>
                 </div>
             </div>
         </section>
-         
-        
-         
 
-
-<!--Start About Style1 Area-->
-         
          
 
          
