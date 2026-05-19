@@ -1396,7 +1396,7 @@ $(document).ready(function(){
                             <ul id="menu-nexgen-footer-2" class="footer-link-list">
                                 <li id="menu-item-14051"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14051"><a
-                                        href="{{ route('services.hedgefunds') }}">Hedge Funds</a></li>
+                                        href="{{ route('services-hedgefunds') }}">Hedge Funds</a></li>
                                 <li id="menu-item-14052"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
                                         href="#">Financial Advisory </a></li> 
