@@ -921,7 +921,7 @@
                 <ul class="navbar-nav action d-md-block d-sm-block d-none">
                     <li class="nav-item">
 
-                        <a href="#"
+                        <a href="{{ route('contact') }}"
                             target="_blank" class="btn primary-button">CONTACT</a>
                     </li>
                 </ul>
