@@ -952,7 +952,7 @@
                                 <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page"><a href="{{ route('about') }}">About Us</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">About Us </li>
                                     </ol>
                                 </nav>
                                 <h1 class="mb-0 title effect-static-text">About Us</h1>
