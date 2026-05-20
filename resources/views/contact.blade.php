@@ -940,7 +940,22 @@
         background-size: cover;
         background-attachment: fixed;
         background-position: center; }
-        
+        .hero {
+                    position: relative;
+                }
+
+                .hero::before {
+                    content: "";
+                    position: absolute;
+                    inset: 0;
+                    background: rgba(0, 0, 0, 0.7); /* black overlay */
+                    z-index: 1;
+                }
+
+                .hero .slide-content {
+                    position: relative;
+                    z-index: 2;
+                }
         </style>
     <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
         <!-- Hero -->

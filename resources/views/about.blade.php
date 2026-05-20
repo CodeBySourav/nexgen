@@ -932,6 +932,7 @@
 
 
     </header>
+     
     <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
          <!-- Hero -->
         <section id="slider" class="hero p-0 odd featured">
@@ -962,16 +963,33 @@
                 </div>
             </div>
         </section>
-        <style>
-        section {
-        position: relative;
-        width: 100%;
-        padding: 130px 0;
-        background-size: cover;
-        background-attachment: fixed;
-        background-position: center; }
-        
-        </style>
+            <style>
+            section {
+            position: relative;
+            width: 100%;
+            padding: 130px 0;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center; }
+            
+
+            .hero {
+                    position: relative;
+                }
+
+                .hero::before {
+                    content: "";
+                    position: absolute;
+                    inset: 0;
+                    background: rgba(0, 0, 0, 0.7); /* black overlay */
+                    z-index: 1;
+                }
+
+                .hero .slide-content {
+                    position: relative;
+                    z-index: 2;
+                }
+            </style>
         <!-- About -->
         <section id="about" class="section-1 highlights team image-right" >
             <div class="container">
