@@ -2043,7 +2043,7 @@ header .navbar-sticky.sub.visible {
 header .navbar-sticky.sub {
   top: 0;
   padding: 10px;
-  background-color: var(--nxg-tertiary-color);
+  background-color: #000;
   -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
   box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
   -webkit-transform: translate3d(0, -101%, 0) !important;

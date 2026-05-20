@@ -963,7 +963,7 @@
                                     <!-- Content -->
                                     <h1 class="title effect-static-text">
                                         <span class="pre-title m-0">Fusions & acquisitions</span>
-                                        Insurance Consulting
+                                           </br>Hedge Funds
                                     </h1>
                                     
                                     <!-- Action -->
@@ -1103,7 +1103,7 @@
         </section>
 
         <!-- About -->
-        <section id="about-2" class="section-2 highlights image-right counter funfacts" style="background-color: #eef4ed;">
+        <section id="about-2" class="section-2 highlights image-right counter funfacts" style="background-color: #000;">
             <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 pr-md-5 align-self-top text">
