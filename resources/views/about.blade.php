@@ -1147,7 +1147,7 @@
         </section>
 
         <!-- Testimonials -->
-        <section id="testimonials" class="section-4 carousel testimonials" style="background-color:#eef4ed">
+        <section id="testimonials" class="section-4 carousel testimonials" style="background-color:#000">
             <div class="overflow-holder">
                 <div class="container">
                     <div class="row text-center intro">

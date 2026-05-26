@@ -1242,7 +1242,7 @@ aside {
 }
 
 .quote .list-group .list-group-item .icon {
-  color: var(--white-text-color);
+  color: var(--white-text-color) !important;
 }
 
 .testimonials .card {
@@ -1278,6 +1278,10 @@ aside {
 
 .odd.testimonials .card .quote-right {
   color: rgba(255, 255, 255, 0.2);
+}
+
+#testimonials .row.text-center.intro h2, #testimonials .row.text-center.intro p, #about .row.intro.aos-init.aos-animate h2, #about .row.intro.aos-init.aos-animate p, #about .contacts h4, #about-2 h2, #about-2 p, #about-2 blockquote, #about-2 h4 {
+	color: #fff;
 }
 
 .partners .client-logo img {
@@ -4337,6 +4341,7 @@ form[data-steps="3"] .progressbar li {
 
 .list-group-content p {
   margin: 0;
+  color: #000;
 }
 
 /* #endregion List */
@@ -5294,3 +5299,19 @@ footer .copyright p {
 }
 
 /* #endregion All Media Queries */
+
+
+
+
+
+
+#subscribe {
+	display: none;
+}
+
+
+
+
+
+
+

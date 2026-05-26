@@ -1082,7 +1082,7 @@
         </section>
 
         <!-- About -->
-        <section id="about" class="section-2 highlights image-right" style="background-color: #eef4ed;">
+        <section id="about" class="section-2 highlights image-right" style="background-color: #000;">
             <div class="container">
             <div class="row">
                 <div class="col-12 col-md-4 pr-md-5 align-self-top text">
