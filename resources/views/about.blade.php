@@ -1417,7 +1417,7 @@ $(document).ready(function(){
                                         href="{{ route('services-hedgefunds') }}">Hedge Funds</a></li>
                                 <li id="menu-item-14052"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
-                                        href="#">Financial Advisory </a></li> 
+                                        href="#">Treasury Funds </a></li> 
                             </ul>
                         </div>
                     </div>

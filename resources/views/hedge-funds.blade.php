@@ -988,7 +988,7 @@
                                                 <select name="info" class="form-control field-info">
                                                     <option value="" selected disabled>More Info</option>
                                                     <option>Audit & Assurance</option>
-                                                    <option>Financial Advisory</option>
+                                                    <option>Treasury Funds</option>
                                                     <option>Analytics and M&A</option>
                                                     <option>Middle Marketing</option>
                                                     <option>Legal Consulting</option>
@@ -1477,7 +1477,7 @@ $(document).ready(function(){
                                         href="{{ route('services-hedgefunds') }}">Hedge Funds</a></li>
                                 <li id="menu-item-14052"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
-                                        href="#">Financial Advisory </a></li> 
+                                        href="#">Treasury Funds </a></li> 
                             </ul>
                         </div>
                     </div>
