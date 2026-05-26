@@ -1242,60 +1242,7 @@
     </div>
 </section>
 
-<section id="about-2" class="section-5 highlights image-right counter funfacts" style="background-color: #000; color: #fff;">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-6 pr-md-5 align-self-top text" data-aos="fade-right">
-                <div class="row intro mb-0">
-                    <div class="col-12 p-0">
-                        <span class="pre-title m-0">Sharing knowledge</span>
-                        <h2><span class="featured"><span>Our</span></span> Results</h2>
-                        <p>Oceano Apex leverages precise strategic positioning to yield cross-border operational scaling and secure risk-mitigated growth trajectories.</p>
-                        <blockquote>Donec tristique diam id mi venenatis facilisis eget sed mi. Phasellus malesuada nulla diam, a dignissim quam.</blockquote>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-12 col-md-6 pr-md-5 align-self-top text">
-                <div class="row items">
-                    <div data-aos="zoom-in-up" data-aos-delay="100" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
-                        <div data-percent="128" class="radial left">
-                            <span>128</span>
-                        </div>
-                        <h4>Certifications</h4>
-                        <p class="text-muted">Global accreditations validating our strict performance and strategic execution metrics.</p>
-                    </div>
-
-                    <div data-aos="zoom-in-up" data-aos-delay="200" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
-                        <div data-percent="230" class="radial left">
-                            <span>230</span>
-                        </div>
-                        <h4>Employees</h4>
-                        <p class="text-muted">Expert operational managers and dedicated dynamic fund analysts worldwide.</p>
-                    </div>
-                </div>
-
-                <div class="row items mt-3">
-                    <div data-aos="zoom-in-up" data-aos-delay="300" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
-                        <div data-percent="517" class="radial left">
-                            <span>517</span>
-                        </div>
-                        <h4>Customers</h4>
-                        <p class="text-muted">Corporate setups and high-net-worth alliances utilizing absolute frameworks.</p>
-                    </div>
-
-                    <div data-aos="zoom-in-up" data-aos-delay="400" class="col-12 col-md-6 p-0 pr-md-4 mb-2 item">
-                        <div data-percent="94" class="radial left">
-                            <span>94</span>
-                        </div>
-                        <h4>Countries Served</h4>
-                        <p class="text-muted">Extensive sovereign systems optimized for international currency management.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+ 
 
         <!-- Subscribe -->
         <section id="subscribe" class="section-3 odd subscribe">
