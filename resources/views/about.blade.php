@@ -1415,9 +1415,9 @@ $(document).ready(function(){
                                 <li id="menu-item-14051"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14051"><a
                                         href="{{ route('services-hedgefunds') }}">Hedge Funds</a></li>
-                                <li id="menu-item-14052"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
-                                        href="#">Treasury Funds </a></li> 
+                                    <li id="menu-item-14052"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
+                                            href="{{ route('services-treasuryfunds') }}">Treasury Funds </a></li> 
                             </ul>
                         </div>
                     </div>

@@ -27,9 +27,9 @@ Route::get('/service-hedge-funds', function () {
     return view('hedge-funds');
 })->name('services-hedgefunds');
 
-Route::get('/service-financial-advisory', function () {
-    return view('financial-advisory');
-})->name('services-financialadvisory');
+Route::get('/service-treasury-funds', function () {
+    return view('treasury-funds');
+})->name('services-treasuryfunds');
 
 Route::get('/blog', [PostController::class, 'blog'])->name('blog.index');
 Route::get('/blog/{slug}', [PostController::class, 'showBlog'])->name('blog.show');

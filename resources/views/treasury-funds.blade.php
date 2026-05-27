@@ -940,231 +940,200 @@
         background-size: cover;
         background-attachment: fixed;
         background-position: center; }
-        .hero {
-                    position: relative;
-                }
-
-                .hero::before {
-                    content: "";
-                    position: absolute;
-                    inset: 0;
-                    background: rgba(0, 0, 0, 0.7); /* black overlay */
-                    z-index: 1;
-                }
-
-                .hero .slide-content {
-                    position: relative;
-                    z-index: 2;
-                }
+        section.section-3  { background-color: #111117;  background-image: images/bg-1.jpg; }
         </style>
     <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
         <!-- Hero -->
-        <section id="slider" class="hero p-0 odd featured">
-            <div class="swiper-container no-slider animation slider-h-50 slider-h-auto">
+         <!-- Hero -->
+        <section id="slider" class="hero p-0 odd">
+            <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
+
                 <div class="swiper-wrapper">
 
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <video class="full-image to-bottom" data-mask="70" playsinline autoplay muted loop>
-                            <source src="videos/work.mp4" type="video/mp4" />
-                        </video> 
+                        <div class="parallax-y-bg" style="background-image:url(images/bg-8.jpg)"></div>
 
-                        <div class="slide-content row text-center">
-                            <div class="col-12 mx-auto inner">
+                        <div class="slide-content row">
+                            <div class="col-12 d-flex justify-content-start justify-content-md-end inner">
+                                <div class="right alt pb-0 text-left">
 
-                                <!-- Content -->
-                                <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
-                                    <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-                                    </ol>
-                                </nav>
-                                <h1 class="mb-0 title effect-static-text">Contact Us</h1>
+                                    <!-- Content -->
+                                    <h1 class="title effect-static-text">
+                                        <span class="pre-title m-0">Fusions & acquisitions</span>
+                                           </br>Treasury Funds
+                                    </h1>
+                                    
+                                    <!-- Action -->
+                                    <form action="php/form.php" id="nexgen-simple-form" class="nexgen-simple-form">
+                                        <input type="hidden" name="section" value="nexgen_form">
+    
+                                        <input type="hidden" name="reCAPTCHA">
+                                        <!-- Remove this field if you want to disable recaptcha -->
+    
+                                        <div class="row form-group-margin">
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="text" name="name" class="form-control field-name" placeholder="Name">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="email" name="email" class="form-control field-email" placeholder="Email">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <input type="text" name="phone" class="form-control field-phone" placeholder="Phone">
+                                            </div>
+                                            <div class="col-12 col-md-6 m-0 p-2 input-group">
+                                                <i class="icon-arrow-down mr-3"></i>
+                                                <select name="info" class="form-control field-info">
+                                                    <option value="" selected disabled>More Info</option>
+                                                    <option>Audit & Assurance</option>
+                                                    <option>Treasury Funds</option>
+                                                    <option>Analytics and M&A</option>
+                                                    <option>Middle Marketing</option>
+                                                    <option>Legal Consulting</option>
+                                                    <option>Regulatory Risk</option>
+                                                    <option>Other</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-12 col-12 m-0 pl-md-2">
+                                                <span class="form-alert"></span>
+                                            </div>
+                                            
+                                            <!-- Action -->
+                                            <div class="col-12 input-group m-0 p-2 buttons">
+                                                <div class="d-sm-inline-flex">
+                                                    <a class="mt-4 mt-sm-0 btn primary-button mb-1">GET IN TOUCH</a>
+                                                    <a href="#single" class="smooth-anchor mt-4 mt-sm-0 ml-sm-3 btn outline-button">READ MORE</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-        <!-- Contact -->
-        <section id="contact" class="section-1 form contact">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-md-8 pr-md-5 align-self-center text">
-                        <div class="row intro">
-                            <div class="col-12 p-0">
-                                <span class="pre-title m-0">Send a message</span>
-                                <h2>Get in <span class="featured"><span>Touch</span></span></h2>
-                                <p>We will respond to your message as soon as possible.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-12 p-0">
-                                <form action="php/form.php" id="nexgen-simple-form" class="nexgen-simple-form">
-                                    <input type="hidden" name="section" value="nexgen_form">
-
-                                    <input type="hidden" name="reCAPTCHA">
-                                    <!-- Remove this field if you want to disable recaptcha -->
-
-                                    <div class="row form-group-margin">
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="text" name="name" class="form-control field-name" placeholder="Name">
-                                        </div>
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="email" name="email" class="form-control field-email" placeholder="Email">
-                                        </div>
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="text" name="phone" class="form-control field-phone" placeholder="Phone">
-                                        </div>
-                                        <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <i class="icon-arrow-down mr-3"></i>
-                                            <select name="info" class="form-control field-info">
-                                                <option value="" selected disabled>More Info</option>
-                                                <option>Audit & Assurance</option>
-                                                <option>Treasury Funds</option>
-                                                <option>Analytics and M&A</option>
-                                                <option>Middle Marketing</option>
-                                                <option>Legal Consulting</option>
-                                                <option>Regulatory Risk</option>
-                                                <option>Other</option>
-                                            </select>
-                                        </div>
-                                        <div class="col-12 m-0 p-2 input-group">
-                                            <textarea name="message" class="form-control field-message" placeholder="Message"></textarea>
-                                        </div>
-                                        <div class="col-12 col-12 m-0 p-2 input-group">
-                                            <span class="form-alert"></span>
-                                        </div>
-                                        <div class="col-12 input-group m-0 p-2">
-                                            <a class="btn primary-button">SEND</a>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>                        
-                    </div>
-                    <div class="col-12 col-md-4">
-                        <div class="contacts">
-                            <h4>Example Inc.</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                            <p>Curabitur convallis, diam a egestas iaculis, neque lorem interdum felis, in viverra lacus tortor in leo.</p>
-                            <ul class="navbar-nav">
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        <i class="fas fa-phone-alt mr-2"></i>
-                                        +1 (305) 1234-5678
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        <i class="fas fa-envelope mr-2"></i>
-                                        hello@example.com
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        <i class="fas fa-map-marker-alt mr-2"></i>
-                                        Main Avenue, 987
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW MAP</a>
-                                </li>
-                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- About -->
-        <section id="about" class="section-2 highlights image-right" style="background-color: #000;">
-            <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-4 pr-md-5 align-self-top text">
-                    <div data-aos="fade-up"  class="row intro">
-                        <div class="col-12 p-0">
-                            <span class="pre-title m-0">Talk to an expert</span>
-                            <h2>Our<br>Business<br>Units</h2>
-                            <p>Curabitur convallis, diam a egestas iaculis, neque lorem interdum felis, in viverra lacus tortor in leo.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 pr-md-5 align-self-top text">
-                    <div class="row items">                             
-                        <div data-aos="fade-up" class="col-12 p-0 pr-md-4 item">
-                            <div class="contacts">
-                                <h4>Branch</h4>
-                                <ul class="navbar-nav">
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-phone-alt mr-2"></i>
-                                            +1 (305) 1234-5678
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-envelope mr-2"></i>
-                                            hello@example.com
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-map-marker-alt mr-2"></i>
-                                            Main Avenue, 987
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW MAP</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>     
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 pr-md-5 align-self-top text">
-                    <div class="row items">                             
-                        <div data-aos="fade-up" class="col-12 p-0 pr-md-4 item">
-                            <div class="contacts">
-                                <h4>Headquarters</h4>
-                                <ul class="navbar-nav">
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-phone-alt mr-2"></i>
-                                            +1 (305) 1234-5678
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-envelope mr-2"></i>
-                                            hello@example.com
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            <i class="fas fa-map-marker-alt mr-2"></i>
-                                            Main Avenue, 987
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW MAP</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>     
-                    </div>
-                </div>
-            </div>
-            </div>
-        </section>
+        
+<section id="treasury" class="section-3 highlights" style="background-color: #fff; color: #333;">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-8 pr-lg-5 text" data-aos="fade-right" data-aos-duration="1000">
+    <span class="pre-title m-0">Strategic control over liquidity</span>
+    <h2>Treasury <span class="featured"><span>Management</span></span></h2>
+    <p class="lead">Operational strength through capital efficiency.</p>
+    <p>Treasury Management at Oceano Apex is designed to help businesses and institutions manage liquidity, optimise working capital, and strengthen financial resilience through disciplined treasury operations. Our approach focuses on ensuring that capital is deployed efficiently while maintaining sufficient liquidity to support operational requirements, growth initiatives, and market uncertainty.</p>
+    
+    <p>We work closely with clients to structure treasury frameworks that improve visibility across cash positions, funding obligations, banking relationships, and financial risk exposures. By integrating forecasting models, liquidity planning, and market risk management, we help organisations navigate foreign exchange volatility, interest rate fluctuations, and short-term funding pressures with greater precision and control.</p>
+    
+    <blockquote>
+        Treasury strategy is not treated as a back-office function alone. It becomes a central component of financial decision-making — enabling stronger balance sheet management, more efficient capital allocation, and enhanced operational stability.
+    </blockquote>
 
-<!--Start About Style1 Area-->
-         
-         
+    <p data-aos="fade-up" data-aos-delay="100">Clients benefit from ongoing treasury oversight, reporting infrastructure, and strategic advisory support tailored to their business model, industry, and growth objectives.</p>
+</div>
+
+            <div class="col-12 col-lg-4  " style="background: #f8f9fa; border-radius: 8px;" data-aos="fade-left" data-aos-duration="1000">
+                <h4 class="font-weight-bold mb-3">What’s Included</h4>
+                <ul class="list-unstyled alignment-spec">
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="50"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Cash flow forecasting & liquidity planning</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="100"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Working capital optimisation</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="150"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Treasury policy & operational structuring</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="200"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> FX exposure management & hedging</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="250"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Interest rate risk management</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="300"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Banking relationship coordination</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="350"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Short-term capital & reserve management</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="400"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Debt management & funding oversight</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="450"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Treasury analytics & reporting dashboards</li>
+                    <li class="mb-2" data-aos="fade-up" data-aos-delay="500"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Dedicated treasury advisory support</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="treasury-framework" class="section-2 highlights global-process" style="background-color: #111; color: #fff;">
+    <div class="container">
+        <div class="row text-center mb-5" data-aos="fade-down">
+            <div class="col-12">
+                <span class="pre-title m-0">Our Treasury Framework</span>
+                <h2>
+                    <span style="color: #5f98bb;">How We Optimise</span>
+                    <span class="featured"><span>Liquidity & Financial Stability</span></span>
+                </h2>
+            </div>
+        </div>
+
+        <div class="row items">
+            <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="100">
+                <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
+                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">01</h2>
+                    <h4 style="color: #38a7b5;">Assess</h4>
+                    <p class="text-muted">We assess your liquidity profile, cash flow cycles, funding structure, operational requirements, and financial risk exposures in detail.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="200">
+                <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
+                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">02</h2>
+                    <h4 style="color: #38a7b5;">Structure</h4>
+                    <p class="text-muted">A tailored treasury framework is designed to improve visibility, optimise working capital, and strengthen financial efficiency across the organisation.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="300">
+                <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
+                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">03</h2>
+                    <h4 style="color: #38a7b5;">Centralise</h4>
+                    <p class="text-muted">We establish integrated oversight across cash management, banking relationships, debt obligations, and short-term investment activities.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row items mt-2">
+            <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="400">
+                <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
+                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">04</h2>
+                    <h4 style="color: #38a7b5;">Protect</h4>
+                    <p class="text-muted">Risk management strategies are implemented to mitigate exposure to currency fluctuations, interest rate movements, and liquidity pressures.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="500">
+                <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
+                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">05</h2>
+                    <h4 style="color: #38a7b5;">Optimise</h4>
+                    <p class="text-muted">Capital allocation, liquidity deployment, and funding decisions are continuously optimised to improve operational resilience and balance sheet efficiency.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="600">
+                <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
+                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">06</h2>
+                    <h4 style="color: #38a7b5;">Report</h4>
+                    <p class="text-muted">Clear treasury reporting and forecasting provide ongoing visibility into liquidity, exposures, financial positioning, and strategic cash utilisation.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+ 
+
+ 
+
+       
 
          
 

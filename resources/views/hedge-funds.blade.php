@@ -954,7 +954,7 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <div class="parallax-y-bg" style="background-image:url(images/bg-8.jpg)"></div>
+                        <div class="parallax-y-bg" style="background-image:url(images/bg-9.jpeg)"></div>
 
                         <div class="slide-content row">
                             <div class="col-12 d-flex justify-content-start justify-content-md-end inner">
@@ -975,13 +975,13 @@
     
                                         <div class="row form-group-margin">
                                             <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                                <input type="text" name="name" class="form-control field-name" placeholder="Name">
+                                                <input type="text" name="name" class="form-control field-name" placeholder="Name" style"background-color: #121212;">
                                             </div>
                                             <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                                <input type="email" name="email" class="form-control field-email" placeholder="Email">
+                                                <input type="email" name="email" class="form-control field-email" placeholder="Email" style"background-color: #121212;">
                                             </div>
                                             <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                                <input type="text" name="phone" class="form-control field-phone" placeholder="Phone">
+                                                <input type="text" name="phone" class="form-control field-phone" placeholder="Phone" style"background-color: #121212;">
                                             </div>
                                             <div class="col-12 col-md-6 m-0 p-2 input-group">
                                                 <i class="icon-arrow-down mr-3"></i>
@@ -1153,135 +1153,7 @@
         </div>
     </div>
 </section>
-
-<section id="treasury" class="section-3 highlights" style="background-color: #fff; color: #333;">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-8 pr-lg-5 text" data-aos="fade-right" data-aos-duration="1000">
-    <span class="pre-title m-0">Strategic control over liquidity</span>
-    <h2>Treasury <span class="featured"><span>Management</span></span></h2>
-    <p class="lead">Operational strength through capital efficiency.</p>
-    <p>Treasury Management at Oceano Apex is designed to help businesses and institutions manage liquidity, optimise working capital, and strengthen financial resilience through disciplined treasury operations. Our approach focuses on ensuring that capital is deployed efficiently while maintaining sufficient liquidity to support operational requirements, growth initiatives, and market uncertainty.</p>
-    
-    <p>We work closely with clients to structure treasury frameworks that improve visibility across cash positions, funding obligations, banking relationships, and financial risk exposures. By integrating forecasting models, liquidity planning, and market risk management, we help organisations navigate foreign exchange volatility, interest rate fluctuations, and short-term funding pressures with greater precision and control.</p>
-    
-    <blockquote>
-        Treasury strategy is not treated as a back-office function alone. It becomes a central component of financial decision-making — enabling stronger balance sheet management, more efficient capital allocation, and enhanced operational stability.
-    </blockquote>
-
-    <p data-aos="fade-up" data-aos-delay="100">Clients benefit from ongoing treasury oversight, reporting infrastructure, and strategic advisory support tailored to their business model, industry, and growth objectives.</p>
-</div>
-
-            <div class="col-12 col-lg-4  " style="background: #f8f9fa; border-radius: 8px;" data-aos="fade-left" data-aos-duration="1000">
-                <h4 class="font-weight-bold mb-3">What’s Included</h4>
-                <ul class="list-unstyled alignment-spec">
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="50"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Cash flow forecasting & liquidity planning</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="100"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Working capital optimisation</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="150"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Treasury policy & operational structuring</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="200"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> FX exposure management & hedging</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="250"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Interest rate risk management</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="300"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Banking relationship coordination</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="350"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Short-term capital & reserve management</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="400"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Debt management & funding oversight</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="450"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Treasury analytics & reporting dashboards</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="500"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Dedicated treasury advisory support</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="treasury-framework" class="section-4 highlights framework-showcase" style="background-color: #f4f6f9;">
-    <div class="container">
-        <div class="row text-center mb-5" data-aos="fade-up">
-            <div class="col-12">
-                <span class="pre-title m-0">Our Treasury Framework</span>
-                <h2>How we optimise liquidity and <span class="featured"><span>financial stability</span></span></h2>
-            </div>
-        </div>
-        <div class="row steps-container">
-            <div class="col-12 col-md-4 p-3" data-aos="fade-up" data-aos-delay="100">
-                <div class="step-box p-4 bg-white shadow-sm" style="border-radius: 6px; border-top: 4px solid #00bcd4;">
-                    <h5><strong>01 . Assess</strong></h5>
-                    <p class="small text-muted mb-0">We assess your liquidity profile, cash flow cycles, funding structure, operational requirements, and financial risk exposures in detail.</p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-3" data-aos="fade-up" data-aos-delay="200">
-                <div class="step-box p-4 bg-white shadow-sm" style="border-radius: 6px; border-top: 4px solid #00bcd4;">
-                    <h5><strong>02 . Structure</strong></h5>
-                    <p class="small text-muted mb-0">A tailored treasury framework is designed to improve visibility, optimise working capital, and strengthen financial efficiency across the organisation.</p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-3" data-aos="fade-up" data-aos-delay="300">
-                <div class="step-box p-4 bg-white shadow-sm" style="border-radius: 6px; border-top: 4px solid #00bcd4;">
-                    <h5><strong>03 . Centralise</strong></h5>
-                    <p class="small text-muted mb-0">We establish integrated oversight across cash management, banking relationships, debt obligations, and short-term investment activities.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row steps-container mt-2">
-            <div class="col-12 col-md-4 p-3" data-aos="fade-up" data-aos-delay="400">
-                <div class="step-box p-4 bg-white shadow-sm" style="border-radius: 6px; border-top: 4px solid #00bcd4;">
-                    <h5><strong>04 . Protect</strong></h5>
-                    <p class="small text-muted mb-0">Risk management strategies are implemented to mitigate exposure to currency fluctuations, interest rate movements, and liquidity pressures.</p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-3" data-aos="fade-up" data-aos-delay="500">
-                <div class="step-box p-4 bg-white shadow-sm" style="border-radius: 6px; border-top: 4px solid #00bcd4;">
-                    <h5><strong>05 . Optimise</strong></h5>
-                    <p class="small text-muted mb-0">Capital allocation, liquidity deployment, and funding decisions are continuously optimised to improve operational resilience and balance sheet efficiency.</p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 p-3" data-aos="fade-up" data-aos-delay="600">
-                <div class="step-box p-4 bg-white shadow-sm" style="border-radius: 6px; border-top: 4px solid #00bcd4;">
-                    <h5><strong>06 . Report</strong></h5>
-                    <p class="small text-muted mb-0">Clear treasury reporting and forecasting provide ongoing visibility into liquidity, exposures, financial positioning, and strategic cash utilisation.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
- 
-
-        <!-- Subscribe -->
-        <section id="subscribe" class="section-3 odd subscribe">
-            <div class="container smaller">
-                <div class="row">
-                    <div class="col-12 col-md-6 m-md-0 intro">
-                        <span class="pre-title m-0">Newsletter</span>
-                        <h2><span class="featured"><span>Know</span></span> First</h2>
-                        <p>Follow closely and receive content about our company and the news of the current market.</p>
-                    </div>
-                    <div class="col-12 col-md-6">
-                        <form action="php/form.php" id="nexgen-subscribe" class="row m-auto items">
-                            <input type="hidden" name="section" value="nexgen_subscribe">
-
-                            <input type="hidden" name="reCAPTCHA">
-                            <!-- Remove this field if you want to disable recaptcha -->
-
-                            <div class="col-12 mt-0 input-group align-self-center item">
-                                <input type="text" name="name" class="form-control less-opacity field-name" placeholder="Name">
-                            </div>
-                            <div class="col-12 input-group align-self-center item">
-                                <input type="email" name="email" class="form-control less-opacity field-email" placeholder="Email">
-                            </div>
-                            <div class="col-12 input-group align-self-center item">
-                                <a data-aos="zoom-in" class="btn primary-button">SUBSCRIBE</a>
-                            </div>
-                            <div class="col-12 item">
-                                <span class="form-alert mt-3 mb-0"></span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-         
-
-         
-
+   
 
 
         <!-- Owl Carousel CSS -->
@@ -1424,7 +1296,7 @@ $(document).ready(function(){
                                         href="{{ route('services-hedgefunds') }}">Hedge Funds</a></li>
                                 <li id="menu-item-14052"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14052"><a
-                                        href="#">Treasury Funds </a></li> 
+                                        href="{{ route('services-treasuryfunds') }}">Treasury Funds </a></li> 
                             </ul>
                         </div>
                     </div>
