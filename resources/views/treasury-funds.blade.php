@@ -945,6 +945,73 @@
     <div data-elementor-type="wp-page" data-elementor-id="6480" class="elementor elementor-6480">
         <!-- Hero -->
          <!-- Hero -->
+
+         <style>
+        @media (max-width: 991px){
+
+            /* Full section black */
+            #slider{
+                background: #000;
+            }
+
+            #slider .slide-content{
+                padding-top: 140px;
+                padding-bottom: 40px;
+                min-height: auto;
+
+                background-color: #000;
+            }
+
+            /* Remove extra image block */
+            #slider .parallax-y-bg{
+                display: none;
+            }
+
+            /* Background image ONLY on title area */
+            .effect-static-text{
+                background-image: url('images/bg-8.jpg');
+                background-size: cover;
+                background-position: center top;
+                background-repeat: no-repeat;
+
+                padding: 25px 20px 40px;
+                border-radius: 0;
+
+                color: #fff;
+            }
+
+            /* Content area */
+            #slider .right{
+                width: 100%; 
+                background: #000;
+            }
+
+            /* Heading */
+            #slider h1.title{
+                font-size: 52px;
+                line-height: 1.1;
+                color: #fff;
+                margin-bottom: 30px;
+            }
+
+            /* Inputs */
+            #slider .form-control{
+                background: #161616 !important;
+                border: 1px solid #222 !important;
+                color: #fff !important;
+            }
+
+            #slider .form-control::placeholder{
+                color: #8f8f8f;
+            }
+            .slider-h-auto.no-slider .inner {
+
+            padding-top: 0px;
+            }
+        }
+
+        
+         </style>
         <section id="slider" class="hero p-0 odd">
             <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
 

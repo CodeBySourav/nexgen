@@ -1010,6 +1010,8 @@
             padding-top: 0px;
             }
         }
+
+        
          </style>
         <section id="slider" class="hero p-0 odd">
             <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
