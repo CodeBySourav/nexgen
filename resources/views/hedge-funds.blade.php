@@ -1060,34 +1060,42 @@
             <aside class="col-12 col-lg-4   p-0 float-right sidebar" data-aos="fade-left" data-aos-duration="1000">
     <!-- Clean Premium What's Included Card -->
     <div class="col-12 p-4 mb-4" style="background: #f8f9fa; border-radius: 8px;">
-        <h4 class="font-weight-bold mb-3" style="font-size: 1.25rem; letter-spacing: 0.5px;">What’s Included</h4>
-        <ul class="list-unstyled alignment-spec mb-0">
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="50">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Multi-strategy investment framework
-            </li>
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="100">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Quantitative & discretionary trading strategies
-            </li>
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="150">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Long/short equity and macro exposure
-            </li>
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="200">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Derivatives, hedging & volatility strategies
-            </li>
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="250">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Institutional-grade risk management systems
-            </li>
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="300">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Performance attribution & analytics reporting
-            </li>
-            <li class="mb-2" data-aos="fade-up" data-aos-delay="350">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Tactical asset allocation & rebalancing
-            </li>
-            <li class="mb-0" data-aos="fade-up" data-aos-delay="400">
-                <i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Dedicated portfolio oversight & investor communication
-            </li>
-        </ul>
-    </div>
+    <h4 class="font-weight-bold mb-4" style="font-size: 1.25rem; letter-spacing: 0.5px; color: #0f2d4a;">What’s Included</h4>
+    <ul class="list-unstyled mb-0 p-0">
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="50">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Multi-strategy investment framework</span>
+        </li>
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="100">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Quantitative & discretionary trading strategies</span>
+        </li>
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="150">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Long/short equity and macro exposure</span>
+        </li>
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="200">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Derivatives, hedging & volatility strategies</span>
+        </li>
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="250">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Institutional-grade risk management systems</span>
+        </li>
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="300">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Performance attribution & analytics reporting</span>
+        </li>
+        <li class="mb-4" style="clear: both;" data-aos="fade-up" data-aos-delay="350">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Tactical asset allocation & rebalancing</span>
+        </li>
+        <li class="mb-0" style="clear: both;" data-aos="fade-up" data-aos-delay="400">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Dedicated portfolio oversight & investor communication</span>
+        </li>
+    </ul>
+</div>
 
     <!-- Clean Premium Certifications Card -->
      
@@ -1108,22 +1116,22 @@
         <div class="row items">
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="100">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">01</h2>
-                    <h4 style="color: #38a7b5;">Research</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">01</h2>
+                    <h4 style="color: #ddc59e;">Research</h4>
                     <p class="text-muted">We begin with deep macroeconomic, quantitative, and market research to identify inefficiencies, emerging trends, and asymmetric opportunities across global markets.</p>
                 </div>
             </div>
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="200">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">02</h2>
-                    <h4 style="color: #38a7b5;">Construct</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">02</h2>
+                    <h4 style="color: #ddc59e;">Construct</h4>
                     <p class="text-muted">Strategies are constructed through a disciplined framework that balances return potential, diversification, liquidity, and downside protection across multiple asset classes.</p>
                 </div>
             </div>
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="300">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">03</h2>
-                    <h4 style="color: #38a7b5;">Allocate</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">03</h2>
+                    <h4 style="color: #ddc59e;">Allocate</h4>
                     <p class="text-muted">Capital is dynamically allocated across strategies, sectors, and instruments based on market conditions, volatility regimes, and evolving risk-reward profiles.</p>
                 </div>
             </div>
@@ -1131,22 +1139,22 @@
         <div class="row items mt-2">
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="400">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">04</h2>
-                    <h4 style="color: #38a7b5;">Execute</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">04</h2>
+                    <h4 style="color: #ddc59e;">Execute</h4>
                     <p class="text-muted">Trades are executed with precision using systematic processes, risk controls, and continuous monitoring to ensure efficiency and discipline in implementation.</p>
                 </div>
             </div>
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="500">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">05</h2>
-                    <h4 style="color: #38a7b5;">Hedge</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">05</h2>
+                    <h4 style="color: #ddc59e;">Hedge</h4>
                     <p class="text-muted">We actively manage market exposure through hedging strategies, derivatives, and tactical positioning designed to mitigate volatility and preserve capital.</p>
                 </div>
             </div>
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="600">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">06</h2>
-                    <h4 style="color: #38a7b5;">Evaluate</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">06</h2>
+                    <h4 style="color: #ddc59e;">Evaluate</h4>
                     <p class="text-muted">Performance, attribution, and portfolio risk are continuously evaluated to refine strategies, improve efficiency, and adapt to changing market environments.</p>
                 </div>
             </div>

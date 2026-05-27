@@ -1036,21 +1036,51 @@
     <p data-aos="fade-up" data-aos-delay="100">Clients benefit from ongoing treasury oversight, reporting infrastructure, and strategic advisory support tailored to their business model, industry, and growth objectives.</p>
 </div>
 
-            <div class="col-12 col-lg-4  " style="background: #f8f9fa; border-radius: 8px;" data-aos="fade-left" data-aos-duration="1000">
-                <h4 class="font-weight-bold mb-3">What’s Included</h4>
-                <ul class="list-unstyled alignment-spec">
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="50"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Cash flow forecasting & liquidity planning</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="100"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Working capital optimisation</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="150"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Treasury policy & operational structuring</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="200"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> FX exposure management & hedging</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="250"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Interest rate risk management</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="300"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Banking relationship coordination</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="350"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Short-term capital & reserve management</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="400"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Debt management & funding oversight</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="450"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Treasury analytics & reporting dashboards</li>
-                    <li class="mb-2" data-aos="fade-up" data-aos-delay="500"><i class="icon icon-check text-success mr-2" style="font-size: 31px;"></i> Dedicated treasury advisory support</li>
-                </ul>
-            </div>
+            <div class="col-12 col-lg-4" style="background: #f8f9fa; border-radius: 8px; padding: 24px;" data-aos="fade-left" data-aos-duration="1000">
+    <h4 class="font-weight-bold mb-4" style="color: #0f2d4a;">What’s Included</h4>
+    <ul class="list-unstyled m-0 p-0">
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="50">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Cash flow forecasting & liquidity planning</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="100">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Working capital optimisation</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="150">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Treasury policy & operational structuring</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="200">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">FX exposure management & hedging</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="250">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Interest rate risk management</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="300">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Banking relationship coordination</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="350">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Short-term capital & reserve management</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="400">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Debt management & funding oversight</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="450">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Treasury analytics & reporting dashboards</span>
+        </li>
+        <li class="mb-3" style="clear: both;" data-aos="fade-up" data-aos-delay="500">
+            <i class="icon icon-check text-success" style="font-size: 24px; float: left; margin-right: 12px; line-height: 1.2;"></i>
+            <span style="display: block; overflow: hidden; font-size: 16px; color: #333333; line-height: 1.4;">Dedicated treasury advisory support</span>
+        </li>
+    </ul>
+</div>
         </div>
     </div>
 </section>
@@ -1071,8 +1101,8 @@
         <div class="row items">
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="100">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">01</h2>
-                    <h4 style="color: #38a7b5;">Assess</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">01</h2>
+                    <h4 style="color: #ddc59e;">Assess</h4>
                     <p class="text-muted">We assess your liquidity profile, cash flow cycles, funding structure, operational requirements, and financial risk exposures in detail.
                     </p>
                 </div>
@@ -1080,8 +1110,8 @@
 
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="200">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">02</h2>
-                    <h4 style="color: #38a7b5;">Structure</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">02</h2>
+                    <h4 style="color: #ddc59e;">Structure</h4>
                     <p class="text-muted">A tailored treasury framework is designed to improve visibility, optimise working capital, and strengthen financial efficiency across the organisation.
                     </p>
                 </div>
@@ -1089,8 +1119,8 @@
 
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="300">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">03</h2>
-                    <h4 style="color: #38a7b5;">Centralise</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">03</h2>
+                    <h4 style="color: #ddc59e;">Centralise</h4>
                     <p class="text-muted">We establish integrated oversight across cash management, banking relationships, debt obligations, and short-term investment activities.
                     </p>
                 </div>
@@ -1100,8 +1130,8 @@
         <div class="row items mt-2">
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="400">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">04</h2>
-                    <h4 style="color: #38a7b5;">Protect</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">04</h2>
+                    <h4 style="color: #ddc59e;">Protect</h4>
                     <p class="text-muted">Risk management strategies are implemented to mitigate exposure to currency fluctuations, interest rate movements, and liquidity pressures.
                     </p>
                 </div>
@@ -1109,8 +1139,8 @@
 
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="500">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">05</h2>
-                    <h4 style="color: #38a7b5;">Optimise</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">05</h2>
+                    <h4 style="color: #ddc59e;">Optimise</h4>
                     <p class="text-muted">Capital allocation, liquidity deployment, and funding decisions are continuously optimised to improve operational resilience and balance sheet efficiency.
                     </p>
                 </div>
@@ -1118,8 +1148,8 @@
 
             <div class="col-12 col-md-4 p-3 item" data-aos="zoom-in" data-aos-delay="600">
                 <div class="process-card p-4" style="background: #1a1a1a; border-radius: 8px; height: 100%;">
-                    <h2 class="display-4 font-weight-bold" style="color: #00bcd4; opacity: 0.6;">06</h2>
-                    <h4 style="color: #38a7b5;">Report</h4>
+                    <h2 class="display-4 font-weight-bold" style="color: #ffffff; ">06</h2>
+                    <h4 style="color: #ddc59e;">Report</h4>
                     <p class="text-muted">Clear treasury reporting and forecasting provide ongoing visibility into liquidity, exposures, financial positioning, and strategic cash utilisation.
                     </p>
                 </div>
