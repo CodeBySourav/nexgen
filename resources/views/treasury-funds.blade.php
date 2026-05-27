@@ -1014,7 +1014,21 @@
             padding-top: 0px;
             }
         }
+@media (max-width: 767px) {
 
+        /* Hide left side */
+        .navbar.top .left {
+            display: none !important;
+        }
+
+        /* Hide social icons */
+        .navbar.top .right .nav-item:nth-child(3),
+        .navbar.top .right .nav-item:nth-child(4),
+        .navbar.top .right .nav-item:nth-child(5) {
+            display: none !important;
+        }
+    
+    }
         
          </style>
         <section id="slider" class="hero p-0 odd">
