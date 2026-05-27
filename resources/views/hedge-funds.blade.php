@@ -979,6 +979,11 @@
                 border-radius: 0;
 
                 color: #fff;
+
+                display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        text-align: right;
             }
 
             /* Content area */
