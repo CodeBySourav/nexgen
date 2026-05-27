@@ -1004,7 +1004,7 @@
                                             <div class="col-12 input-group m-0 p-2 buttons">
                                                 <div class="d-sm-inline-flex">
                                                     <a class="mt-4 mt-sm-0 btn primary-button mb-1">GET IN TOUCH</a>
-                                                    <a href="#single" class="smooth-anchor mt-4 mt-sm-0 ml-sm-3 btn outline-button">READ MORE</a>
+                                                     
                                                 </div>
                                             </div>
                                         </div>
