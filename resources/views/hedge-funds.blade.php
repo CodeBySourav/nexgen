@@ -1016,33 +1016,7 @@
             }
         }
 
-        /* Mobile Header Fix */
-@media (max-width: 991px){
-
-    /* Hide opening hours */
-    .navbar.top .left{
-        display: none !important;
-    }
-
-    /* Center phone & email */
-    .navbar.top .right{
-        width: 100%;
-        justify-content: center;
-        display: flex;
-        gap: 10px;
-    }
-
-    /* Hide social icons on mobile */
-    .navbar.top .right li:nth-last-child(-n+3){
-        display: none !important;
-    }
-
-    /* Smaller text for mobile */
-    .navbar.top .nav-link{
-        font-size: 13px;
-        padding: 5px 6px;
-    }
-}
+        
          </style>
         <section id="slider" class="hero p-0 odd">
             <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
