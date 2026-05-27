@@ -1016,7 +1016,19 @@
             }
         }
 
-        
+        @media (max-width: 991px){
+
+    /* Hide opening hours on mobile */
+    .navbar.top .left{
+        display: none !important;
+    }
+
+    /* Center/right align phone + email */
+    .navbar.top .right{
+        width: 100%;
+        justify-content: center;
+    }
+}
          </style>
         <section id="slider" class="hero p-0 odd">
             <div class="swiper-container no-slider animation slider-h-100 slider-h-auto alt">
