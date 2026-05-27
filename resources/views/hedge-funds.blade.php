@@ -1110,7 +1110,7 @@
         <div class="row text-center mb-5" data-aos="fade-down">
             <div class="col-12">
                 <span class="pre-title m-0">Our Investment Process</span>
-                <h2> <span style="color: #5f98bb;">How We Pursue</span><span class="featured"><span>Absolute Returns</span></span></h2>
+                <h2> <span style="color: #ffffff;">How We Pursue</span><span class="featured"><span>Absolute Returns</span></span></h2>
             </div>
         </div>
         <div class="row items">

@@ -1092,7 +1092,7 @@
             <div class="col-12">
                 <span class="pre-title m-0">Our Treasury Framework</span>
                 <h2>
-                    <span style="color: #5f98bb;">How We Optimise</span>
+                    <span style="color: #ffffff;">How We Optimise</span>
                     <span class="featured"><span>Liquidity & Financial Stability</span></span>
                 </h2>
             </div>
