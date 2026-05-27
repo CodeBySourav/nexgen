@@ -1461,7 +1461,7 @@ $(document).ready(function(){
                             <li class="nav-item d-block d-md-inline-flex">
 
                                 <a href="https://themeasy.co" target="_blank" class="nav-link">© 2026 - All rights
-                                    reserved. Oceano Apex is maintained by Themeasy.</a>
+                                    reserved. Oceano Apex is maintained by Eoan.</a>
                             </li>
 
 

@@ -954,7 +954,7 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <div class="parallax-y-bg" style="background-image:url(images/bg-9.jpeg)"></div>
+                        <div class="parallax-y-bg" style="background-image:url(images/bg-8.jpeg)"></div>
 
                         <div class="slide-content row">
                             <div class="col-12 d-flex justify-content-start justify-content-md-end inner">
@@ -1348,7 +1348,7 @@ $(document).ready(function(){
                             <li class="nav-item d-block d-md-inline-flex">
 
                                 <a href="https://themeasy.co" target="_blank" class="nav-link">© 2026 - All rights
-                                    reserved. Oceano Apex is maintained by Themeasy.</a>
+                                    reserved. Oceano Apex is maintained by Eoan.</a>
                             </li>
 
 
