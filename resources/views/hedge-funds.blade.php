@@ -550,25 +550,7 @@
     </script>
 
     <!-- Google tag (gtag.js) snippet added by Site Kit -->
-    <!-- Google Analytics snippet added by Site Kit -->
-    <script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-TWTG8NH" id="google_gtagjs-js"
-        async=""></script>
-    <script type="text/javascript" id="google_gtagjs-js-after">
-        /* <![CDATA[ */
-        window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("set", "linker", {
-            "domains": ["nexgen.codings.dev"]
-        });
-        gtag("js", new Date());
-        gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "GT-TWTG8NH");
-        //# sourceURL=google_gtagjs-js-after
-        /* ]]> */
-    </script>
     <link rel="https://api.w.org/" href="https://nexgen.codings.dev/wp-json/">
     <link rel="alternate" title="JSON" type="application/json"
         href="https://nexgen.codings.dev/wp-json/wp/v2/pages/6480">
@@ -830,7 +812,7 @@
                     <li class="nav-item">
 
                         <a href="#" target="_self" class="nav-link m-0"><i
-                                class="fas fa-envelope text-after"></i>oceanoapexdubai@icloud.com</a>
+                                class="fas fa-envelope text-after"></i>dubai@oceanoapex.com</a>
                     </li>
 
 
@@ -948,82 +930,120 @@
 
 
          <style>
-        @media (max-width: 991px){
-
-            /* Full section black */
-            #slider{
-                background: #000;
+         @media (max-width: 991px){
+ 
+            /* ── CORE FIX: prevent horizontal overflow and white gap ── */
+            html, body {
+                overflow-x: hidden !important;
+                width: 100% !important;
+                max-width: 100% !important;
             }
-
-            #slider .slide-content{
-                padding-top: 140px;
+ 
+            /* Force slider to full width, hide overflow */
+            #slider {
+                background: #000;
+                width: 100% !important;
+                max-width: 100% !important;
+                overflow: hidden !important;
+            }
+ 
+            /* KEY FIX: swiper-slide was sitting in flex row with parallax div
+               This makes it block so nothing sits beside the content */
+            #slider .swiper-container,
+            #slider .swiper-wrapper,
+            #slider .swiper-slide {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                overflow: hidden !important;
+            }
+ 
+            /* Hide the parallax background image div completely —
+               this is the element causing the white column on the right */
+            #slider .parallax-y-bg {
+                display: none !important;
+                width: 0 !important;
+                height: 0 !important;
+                position: absolute !important;
+                visibility: hidden !important;
+            }
+ 
+            /* Slide content: block layout, full width */
+            #slider .slide-content {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                padding-top: 80px;
                 padding-bottom: 40px;
                 min-height: auto;
-
                 background-color: #000;
+                overflow: hidden !important;
             }
-
-            /* Remove extra image block */
-            #slider .parallax-y-bg{
-                display: none;
+ 
+            /* All columns inside slide take full width */
+            #slider .slide-content .col-12 {
+                width: 100% !important;
+                max-width: 100% !important;
+                flex: 0 0 100% !important;
+                padding-left: 15px !important;
+                padding-right: 15px !important;
             }
-
-            /* Background image ONLY on title area */
-            .effect-static-text{
-                background-image: url('images/bg-8.jpg');
+ 
+            /* Content .right div — full width, black background */
+            #slider .right {
+                width: 100% !important;
+                max-width: 100% !important;
+                background: #000;
+                padding: 0 !important;
+            }
+ 
+            /* Background image on title area only */
+            .effect-static-text {
+                background-image: url('images/bg-9.jpeg');
                 background-size: cover;
                 background-position: center top;
                 background-repeat: no-repeat;
-
                 padding: 25px 20px 40px;
                 border-radius: 0;
-
                 color: #fff;
-
                 display: flex;
-        flex-direction: column;
-        align-items: flex-end;
-        text-align: right;
+                flex-direction: column;
+                align-items: flex-end;
+                text-align: right;
             }
-
-            /* Content area */
-            #slider .right{
-                width: 100%; 
-                background: #000;
-            }
-
+ 
             /* Heading */
-            #slider h1.title{
+            #slider h1.title {
                 font-size: 52px;
                 line-height: 1.1;
                 color: #fff;
                 margin-bottom: 30px;
             }
-
+ 
             /* Inputs */
-            #slider .form-control{
+            #slider .form-control {
                 background: #161616 !important;
                 border: 1px solid #222 !important;
                 color: #fff !important;
             }
-
-            #slider .form-control::placeholder{
+ 
+            #slider .form-control::placeholder {
                 color: #8f8f8f;
             }
+ 
             .slider-h-auto.no-slider .inner {
-
                 padding-top: 0px;
             }
         }
  
     @media (max-width: 767px) {
-
-        /* Hide left side */
+ 
+        /* Hide left topbar on mobile */
         .navbar.top .left {
             display: none !important;
         }
-
-        /* Hide social icons */
+ 
+        /* Hide social icons in topbar */
         .navbar.top .right .nav-item:nth-child(3),
         .navbar.top .right .nav-item:nth-child(4),
         .navbar.top .right .nav-item:nth-child(5) {
